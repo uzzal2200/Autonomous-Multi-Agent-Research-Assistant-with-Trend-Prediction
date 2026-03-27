@@ -1,0 +1,7981 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "node_type": "paper",
+      "title": "A dissemination workshop for introducing young Italian students to NLP",
+      "year": 2021,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2104.12405v2"
+    },
+    {
+      "node_type": "topic",
+      "name": "describe",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_0d16430e"
+    },
+    {
+      "node_type": "topic",
+      "name": "make",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_099dafc6"
+    },
+    {
+      "node_type": "topic",
+      "name": "available",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_e4894ca1"
+    },
+    {
+      "node_type": "topic",
+      "name": "game",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_c8d46d34"
+    },
+    {
+      "node_type": "topic",
+      "name": "based",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_a66db021"
+    },
+    {
+      "node_type": "topic",
+      "name": "material",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_eec34d80"
+    },
+    {
+      "node_type": "topic",
+      "name": "developed",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_e4a17041"
+    },
+    {
+      "node_type": "topic",
+      "name": "laboratory",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_799ad83c"
+    },
+    {
+      "node_type": "topic",
+      "name": "run",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_a53108f7"
+    },
+    {
+      "node_type": "topic",
+      "name": "several",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_c902a617"
+    },
+    {
+      "node_type": "topic",
+      "name": "make available",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_94b489b4"
+    },
+    {
+      "node_type": "topic",
+      "name": "game based",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_0ea3475a"
+    },
+    {
+      "node_type": "topic",
+      "name": "based material",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_dbfa51fc"
+    },
+    {
+      "node_type": "topic",
+      "name": "material developed",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_0a773699"
+    },
+    {
+      "node_type": "topic",
+      "name": "laboratory run",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_9da9a27c"
+    },
+    {
+      "node_type": "author",
+      "name": "Lucio Messina",
+      "id": "author_c26caf1f"
+    },
+    {
+      "node_type": "author",
+      "name": "Lucia Busso",
+      "id": "author_3905d13e"
+    },
+    {
+      "node_type": "author",
+      "name": "Claudia Roberta Combei",
+      "id": "author_bb202143"
+    },
+    {
+      "node_type": "author",
+      "name": "Ludovica Pannitto",
+      "id": "author_c8917ab3"
+    },
+    {
+      "node_type": "author",
+      "name": "Alessio Miaschi",
+      "id": "author_47130bca"
+    },
+    {
+      "node_type": "author",
+      "name": "Gabriele Sarti",
+      "id": "author_c3b8f4a2"
+    },
+    {
+      "node_type": "author",
+      "name": "Malvina Nissim",
+      "id": "author_f51b1d25"
+    },
+    {
+      "node_type": "paper",
+      "title": "Teaching NLP with Bracelets and Restaurant Menus: An Interactive Workshop for Italian Students",
+      "year": 2021,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2104.12422v2"
+    },
+    {
+      "node_type": "topic",
+      "name": "computational",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_23d13b7d"
+    },
+    {
+      "node_type": "topic",
+      "name": "linguistics",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_416ddd00"
+    },
+    {
+      "node_type": "topic",
+      "name": "workshop",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_33f2ee11"
+    },
+    {
+      "node_type": "topic",
+      "name": "language",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_8512ae7d"
+    },
+    {
+      "node_type": "topic",
+      "name": "nlp",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_4c5adbed"
+    },
+    {
+      "node_type": "topic",
+      "name": "core",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_a74ad8df"
+    },
+    {
+      "node_type": "topic",
+      "name": "tools",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_4a931512"
+    },
+    {
+      "node_type": "topic",
+      "name": "young",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_f6182f03"
+    },
+    {
+      "node_type": "topic",
+      "name": "people",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_12a032ce"
+    },
+    {
+      "node_type": "topic",
+      "name": "use",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_5ef76d30"
+    },
+    {
+      "node_type": "topic",
+      "name": "computational linguistics",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_b9071462"
+    },
+    {
+      "node_type": "topic",
+      "name": "young people",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_ba83beb9"
+    },
+    {
+      "node_type": "topic",
+      "name": "high school",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_46ae7abb"
+    },
+    {
+      "node_type": "topic",
+      "name": "although natural",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_ff9d7b22"
+    },
+    {
+      "node_type": "topic",
+      "name": "natural language",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_ef32eaef"
+    },
+    {
+      "node_type": "paper",
+      "title": "GR-NLP-TOOLKIT: An Open-Source NLP Toolkit for Modern Greek",
+      "year": 2024,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2412.08520v1"
+    },
+    {
+      "node_type": "topic",
+      "name": "toolkit",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_c3351784"
+    },
+    {
+      "node_type": "topic",
+      "name": "open",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_7cef8a73"
+    },
+    {
+      "node_type": "topic",
+      "name": "source",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_36cd38f4"
+    },
+    {
+      "node_type": "topic",
+      "name": "greek",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_709ac5dd"
+    },
+    {
+      "node_type": "topic",
+      "name": "tagging",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_7083a198"
+    },
+    {
+      "node_type": "topic",
+      "name": "present",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_47ed4995"
+    },
+    {
+      "node_type": "topic",
+      "name": "natural",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_8f4ef05b"
+    },
+    {
+      "node_type": "topic",
+      "name": "nlp toolkit",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_e6ce52ff"
+    },
+    {
+      "node_type": "topic",
+      "name": "open source",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_d0db2f2f"
+    },
+    {
+      "node_type": "topic",
+      "name": "source natural",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_f122b3a9"
+    },
+    {
+      "node_type": "topic",
+      "name": "language processing",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_82510b1c"
+    },
+    {
+      "node_type": "author",
+      "name": "Lefteris Loukas",
+      "id": "author_c8d3aed9"
+    },
+    {
+      "node_type": "author",
+      "name": "Nikolaos Smyrnioudis",
+      "id": "author_98963b22"
+    },
+    {
+      "node_type": "author",
+      "name": "Chrysa Dikonomaki",
+      "id": "author_68dadb49"
+    },
+    {
+      "node_type": "author",
+      "name": "Spyros Barbakos",
+      "id": "author_e3f974fa"
+    },
+    {
+      "node_type": "author",
+      "name": "Anastasios Toumazatos",
+      "id": "author_23918281"
+    },
+    {
+      "node_type": "author",
+      "name": "John Koutsikakis",
+      "id": "author_7b87483e"
+    },
+    {
+      "node_type": "author",
+      "name": "Manolis Kyriakakis",
+      "id": "author_920d780d"
+    },
+    {
+      "node_type": "author",
+      "name": "Mary Georgiou",
+      "id": "author_fe7cd70e"
+    },
+    {
+      "node_type": "author",
+      "name": "Stavros Vassos",
+      "id": "author_bf44dad0"
+    },
+    {
+      "node_type": "author",
+      "name": "John Pavlopoulos",
+      "id": "author_4301bf69"
+    },
+    {
+      "node_type": "author",
+      "name": "Ion Androutsopoulos",
+      "id": "author_23e6e8ab"
+    },
+    {
+      "node_type": "paper",
+      "title": "How Good Is NLP? A Sober Look at NLP Tasks through the Lens of Social Impact",
+      "year": 2021,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2106.02359v3"
+    },
+    {
+      "node_type": "topic",
+      "name": "social",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_36fa3a19"
+    },
+    {
+      "node_type": "topic",
+      "name": "good",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_755f85c2"
+    },
+    {
+      "node_type": "topic",
+      "name": "research",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_7412df2b"
+    },
+    {
+      "node_type": "topic",
+      "name": "many",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_8cd283d8"
+    },
+    {
+      "node_type": "topic",
+      "name": "theoretical",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_be6bbe4a"
+    },
+    {
+      "node_type": "topic",
+      "name": "real",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_4bca2430"
+    },
+    {
+      "node_type": "topic",
+      "name": "world",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_7d793037"
+    },
+    {
+      "node_type": "topic",
+      "name": "applications",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_b5fba9ff"
+    },
+    {
+      "node_type": "topic",
+      "name": "rising",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_637aa1a3"
+    },
+    {
+      "node_type": "topic",
+      "name": "social good",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_3069aa64"
+    },
+    {
+      "node_type": "topic",
+      "name": "real world",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_13684532"
+    },
+    {
+      "node_type": "topic",
+      "name": "moral philosophy",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_8c8c9f44"
+    },
+    {
+      "node_type": "topic",
+      "name": "global priorities",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_f35d621e"
+    },
+    {
+      "node_type": "topic",
+      "name": "priorities research",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_25ad12c7"
+    },
+    {
+      "node_type": "method",
+      "name": "our theoretical framework",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_51de54e7"
+    },
+    {
+      "node_type": "method",
+      "name": "a framework",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_6ab95935"
+    },
+    {
+      "node_type": "author",
+      "name": "Zhijing Jin",
+      "id": "author_cc523875"
+    },
+    {
+      "node_type": "author",
+      "name": "Geeticka Chauhan",
+      "id": "author_dfea4433"
+    },
+    {
+      "node_type": "author",
+      "name": "Brian Tse",
+      "id": "author_f5653cdf"
+    },
+    {
+      "node_type": "author",
+      "name": "Mrinmaya Sachan",
+      "id": "author_31dd71a8"
+    },
+    {
+      "node_type": "author",
+      "name": "Rada Mihalcea",
+      "id": "author_fccacbce"
+    },
+    {
+      "node_type": "paper",
+      "title": "NLP-ADBench: NLP Anomaly Detection Benchmark",
+      "year": 2024,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2412.04784v2"
+    },
+    {
+      "node_type": "topic",
+      "name": "end",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_7f021a14"
+    },
+    {
+      "node_type": "topic",
+      "name": "detection",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_abc9a870"
+    },
+    {
+      "node_type": "topic",
+      "name": "methods",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_a9ac5a6c"
+    },
+    {
+      "node_type": "topic",
+      "name": "embeddings",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_d92c3679"
+    },
+    {
+      "node_type": "topic",
+      "name": "anomaly",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_6aa8906d"
+    },
+    {
+      "node_type": "topic",
+      "name": "content",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_9a0364b9"
+    },
+    {
+      "node_type": "topic",
+      "name": "adbench",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_84e3df3f"
+    },
+    {
+      "node_type": "topic",
+      "name": "datasets",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_a6530558"
+    },
+    {
+      "node_type": "topic",
+      "name": "anomaly detection",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_a034a8fd"
+    },
+    {
+      "node_type": "topic",
+      "name": "nlp adbench",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_1bf89075"
+    },
+    {
+      "node_type": "topic",
+      "name": "two step",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_a3c9547e"
+    },
+    {
+      "node_type": "topic",
+      "name": "important machine",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_d922a059"
+    },
+    {
+      "node_type": "topic",
+      "name": "machine learning",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_e04d1bce"
+    },
+    {
+      "node_type": "method",
+      "name": "bert",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_3de0746a"
+    },
+    {
+      "node_type": "author",
+      "name": "Yuangang Li",
+      "id": "author_91b93045"
+    },
+    {
+      "node_type": "author",
+      "name": "Jiaqi Li",
+      "id": "author_568d3ad2"
+    },
+    {
+      "node_type": "author",
+      "name": "Zhuo Xiao",
+      "id": "author_12c0c14d"
+    },
+    {
+      "node_type": "author",
+      "name": "Tiankai Yang",
+      "id": "author_96aa4f34"
+    },
+    {
+      "node_type": "author",
+      "name": "Yi Nian",
+      "id": "author_e09ae820"
+    },
+    {
+      "node_type": "author",
+      "name": "Xiyang Hu",
+      "id": "author_e6f3d781"
+    },
+    {
+      "node_type": "author",
+      "name": "Yue Zhao",
+      "id": "author_9d7da9ff"
+    },
+    {
+      "node_type": "paper",
+      "title": "Teaching NLP outside Linguistics and Computer Science classrooms: Some challenges and some opportunities",
+      "year": 2021,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2105.00895v1"
+    },
+    {
+      "node_type": "topic",
+      "name": "science",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_fb5c7f9b"
+    },
+    {
+      "node_type": "topic",
+      "name": "also",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_07ccfe36"
+    },
+    {
+      "node_type": "topic",
+      "name": "courses",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_0dfcce75"
+    },
+    {
+      "node_type": "topic",
+      "name": "students",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_75d37c6c"
+    },
+    {
+      "node_type": "topic",
+      "name": "diverse",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_1e0f2187"
+    },
+    {
+      "node_type": "topic",
+      "name": "related",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_90ed4512"
+    },
+    {
+      "node_type": "topic",
+      "name": "identifies",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_c7cae852"
+    },
+    {
+      "node_type": "topic",
+      "name": "sphere",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_34248a9b"
+    },
+    {
+      "node_type": "topic",
+      "name": "influence",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_60aef5b4"
+    },
+    {
+      "node_type": "topic",
+      "name": "influence went",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_29b90958"
+    },
+    {
+      "node_type": "topic",
+      "name": "went much",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_d5b95b02"
+    },
+    {
+      "node_type": "topic",
+      "name": "much beyond",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_c7cb2fa7"
+    },
+    {
+      "node_type": "topic",
+      "name": "beyond computer",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_d15b9238"
+    },
+    {
+      "node_type": "topic",
+      "name": "computer science",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_80c18801"
+    },
+    {
+      "node_type": "author",
+      "name": "Sowmya Vajjala",
+      "id": "author_9751d7da"
+    },
+    {
+      "node_type": "paper",
+      "title": "A Survey on Recognizing Textual Entailment as an NLP Evaluation",
+      "year": 2020,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2010.03061v1"
+    },
+    {
+      "node_type": "topic",
+      "name": "rte",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_e3fd2afa"
+    },
+    {
+      "node_type": "topic",
+      "name": "systems",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_b31df235"
+    },
+    {
+      "node_type": "topic",
+      "name": "focus",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_1818d506"
+    },
+    {
+      "node_type": "topic",
+      "name": "understanding",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_224daf9b"
+    },
+    {
+      "node_type": "topic",
+      "name": "different",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_29e4b66f"
+    },
+    {
+      "node_type": "topic",
+      "name": "evaluating",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_9472cc4c"
+    },
+    {
+      "node_type": "topic",
+      "name": "specific",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_2067d966"
+    },
+    {
+      "node_type": "topic",
+      "name": "linguistic",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_8a2094d7"
+    },
+    {
+      "node_type": "topic",
+      "name": "nlp systems",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_f9fd3b23"
+    },
+    {
+      "node_type": "topic",
+      "name": "rte datasets",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_aa623865"
+    },
+    {
+      "node_type": "topic",
+      "name": "specific linguistic",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_07e30924"
+    },
+    {
+      "node_type": "topic",
+      "name": "linguistic phenomena",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_6be8b55e"
+    },
+    {
+      "node_type": "topic",
+      "name": "recognizing textual",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_d47854be"
+    },
+    {
+      "node_type": "method",
+      "name": "as a unified evaluation framework",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_8b91831e"
+    },
+    {
+      "node_type": "dataset",
+      "name": "that",
+      "description": "",
+      "confidence": 0.7,
+      "id": "dataset_21582c6c"
+    },
+    {
+      "node_type": "author",
+      "name": "Adam Poliak",
+      "id": "author_e0790e60"
+    },
+    {
+      "node_type": "paper",
+      "title": "Training an NLP Scholar at a Small Liberal Arts College: A Backwards Designed Course Proposal",
+      "year": 2024,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2408.05664v1"
+    },
+    {
+      "node_type": "topic",
+      "name": "able",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_c0db7d4e"
+    },
+    {
+      "node_type": "topic",
+      "name": "skills",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_a658279f"
+    },
+    {
+      "node_type": "topic",
+      "name": "learning",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_25a9ac40"
+    },
+    {
+      "node_type": "topic",
+      "name": "paper",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_7e3f6604"
+    },
+    {
+      "node_type": "topic",
+      "name": "two",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_b8a9f715"
+    },
+    {
+      "node_type": "topic",
+      "name": "types",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_d14a8022"
+    },
+    {
+      "node_type": "topic",
+      "name": "train",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_61b3a8fa"
+    },
+    {
+      "node_type": "topic",
+      "name": "two types",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_cb8fb9da"
+    },
+    {
+      "node_type": "topic",
+      "name": "nlp scholar",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_7b448a67"
+    },
+    {
+      "node_type": "topic",
+      "name": "nlp scholars",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_ee1eb392"
+    },
+    {
+      "node_type": "topic",
+      "name": "rapid growth",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_dd735465"
+    },
+    {
+      "node_type": "author",
+      "name": "Grusha Prasad",
+      "id": "author_12e76ad6"
+    },
+    {
+      "node_type": "author",
+      "name": "Forrest Davis",
+      "id": "author_c563f587"
+    },
+    {
+      "node_type": "paper",
+      "title": "Characterizing the Efficiency vs. Accuracy Trade-off for Long-Context NLP Models",
+      "year": 2022,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2204.07288v1"
+    },
+    {
+      "node_type": "topic",
+      "name": "accuracy",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_5d6db9a1"
+    },
+    {
+      "node_type": "topic",
+      "name": "models",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_ac5552fd"
+    },
+    {
+      "node_type": "topic",
+      "name": "sizes",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_b027168e"
+    },
+    {
+      "node_type": "topic",
+      "name": "trade",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_21e119da"
+    },
+    {
+      "node_type": "topic",
+      "name": "model",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_20f35e63"
+    },
+    {
+      "node_type": "topic",
+      "name": "sequence",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_fa1c731e"
+    },
+    {
+      "node_type": "topic",
+      "name": "find",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_ea170e2c"
+    },
+    {
+      "node_type": "topic",
+      "name": "long",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_0f526403"
+    },
+    {
+      "node_type": "topic",
+      "name": "benchmarks",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_224b0b28"
+    },
+    {
+      "node_type": "topic",
+      "name": "model sizes",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_aa4d3c82"
+    },
+    {
+      "node_type": "topic",
+      "name": "trade off",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_eb5d61f6"
+    },
+    {
+      "node_type": "topic",
+      "name": "big bird",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_d9bfb9b0"
+    },
+    {
+      "node_type": "topic",
+      "name": "fixed resource",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_f199594c"
+    },
+    {
+      "node_type": "topic",
+      "name": "resource budget",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_78ada9a3"
+    },
+    {
+      "node_type": "method",
+      "name": "long-sequence model",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_fca9700d"
+    },
+    {
+      "node_type": "author",
+      "name": "Phyllis Ang",
+      "id": "author_c1d733c3"
+    },
+    {
+      "node_type": "author",
+      "name": "Bhuwan Dhingra",
+      "id": "author_4706aef0"
+    },
+    {
+      "node_type": "author",
+      "name": "Lisa Wu Wills",
+      "id": "author_5be9ef11"
+    },
+    {
+      "node_type": "paper",
+      "title": "Methods for the Design and Evaluation of HCI+NLP Systems",
+      "year": 2021,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2102.13461v1"
+    },
+    {
+      "node_type": "topic",
+      "name": "hci",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_702818a8"
+    },
+    {
+      "node_type": "topic",
+      "name": "traditionally",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_615c72b9"
+    },
+    {
+      "node_type": "topic",
+      "name": "number",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_b1bc248a"
+    },
+    {
+      "node_type": "topic",
+      "name": "fields",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_d05b6ed7"
+    },
+    {
+      "node_type": "topic",
+      "name": "evaluation",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_d0718225"
+    },
+    {
+      "node_type": "topic",
+      "name": "nlp traditionally",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_2f64267c"
+    },
+    {
+      "node_type": "topic",
+      "name": "traditionally focus",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_4dff5453"
+    },
+    {
+      "node_type": "topic",
+      "name": "different evaluation",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_206aeaef"
+    },
+    {
+      "node_type": "topic",
+      "name": "evaluation methods",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_6fb176dd"
+    },
+    {
+      "node_type": "topic",
+      "name": "hci involves",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_24bc49d3"
+    },
+    {
+      "node_type": "dataset",
+      "name": "evaluations",
+      "description": "",
+      "confidence": 0.7,
+      "id": "dataset_a116c012"
+    },
+    {
+      "node_type": "author",
+      "name": "Hendrik Heuer",
+      "id": "author_bea0f62d"
+    },
+    {
+      "node_type": "author",
+      "name": "Daniel Buschek",
+      "id": "author_d6bfb6b9"
+    },
+    {
+      "node_type": "paper",
+      "title": "Natural Language Processing 4 All (NLP4All): A New Online Platform for Teaching and Learning NLP Concepts",
+      "year": 2021,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2105.13704v1"
+    },
+    {
+      "node_type": "topic",
+      "name": "new",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_22af645d"
+    },
+    {
+      "node_type": "topic",
+      "name": "processing",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_4374990d"
+    },
+    {
+      "node_type": "topic",
+      "name": "data",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_8d777f38"
+    },
+    {
+      "node_type": "topic",
+      "name": "across",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_c5570472"
+    },
+    {
+      "node_type": "topic",
+      "name": "knowledge",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_a542e9b7"
+    },
+    {
+      "node_type": "topic",
+      "name": "participation",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_f9cb12f8"
+    },
+    {
+      "node_type": "topic",
+      "name": "nlp methods",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_6944ad7a"
+    },
+    {
+      "node_type": "topic",
+      "name": "processing offers",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_47c87f2e"
+    },
+    {
+      "node_type": "topic",
+      "name": "offers new",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_2af12233"
+    },
+    {
+      "node_type": "method",
+      "name": "interfaces to nlp-method",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_f0c50d47"
+    },
+    {
+      "node_type": "author",
+      "name": "Rebekah Baglini",
+      "id": "author_fa14a2e5"
+    },
+    {
+      "node_type": "author",
+      "name": "Arthur Hjorth",
+      "id": "author_e051bcbd"
+    },
+    {
+      "node_type": "paper",
+      "title": "Transformers: \"The End of History\" for NLP?",
+      "year": 2021,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2105.00813v2"
+    },
+    {
+      "node_type": "topic",
+      "name": "transformer",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_5fe05153"
+    },
+    {
+      "node_type": "topic",
+      "name": "pre",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_6bf9e70a"
+    },
+    {
+      "node_type": "topic",
+      "name": "general",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_958153f1"
+    },
+    {
+      "node_type": "topic",
+      "name": "architectures",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_333e3d52"
+    },
+    {
+      "node_type": "topic",
+      "name": "trained",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_8fd8fd9e"
+    },
+    {
+      "node_type": "topic",
+      "name": "bert",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_3de0746a"
+    },
+    {
+      "node_type": "topic",
+      "name": "tasks",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_2cb1ad4f"
+    },
+    {
+      "node_type": "topic",
+      "name": "roberta",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_229e5b13"
+    },
+    {
+      "node_type": "topic",
+      "name": "pre trained",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_c810aa86"
+    },
+    {
+      "node_type": "topic",
+      "name": "transformer architecture",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_7c899632"
+    },
+    {
+      "node_type": "topic",
+      "name": "recent advances",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_92a1431f"
+    },
+    {
+      "node_type": "topic",
+      "name": "neural architectures",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_f95ae456"
+    },
+    {
+      "node_type": "topic",
+      "name": "transformer coupled",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_e32e8185"
+    },
+    {
+      "node_type": "method",
+      "name": "berta",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_43d75035"
+    },
+    {
+      "node_type": "author",
+      "name": "Anton Chernyavskiy",
+      "id": "author_85dc56a5"
+    },
+    {
+      "node_type": "author",
+      "name": "Dmitry Ilvovsky",
+      "id": "author_6e847e17"
+    },
+    {
+      "node_type": "author",
+      "name": "Preslav Nakov",
+      "id": "author_ae3f3cd1"
+    },
+    {
+      "node_type": "paper",
+      "title": "Defining a New NLP Playground",
+      "year": 2023,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2310.20633v1"
+    },
+    {
+      "node_type": "topic",
+      "name": "field",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_06e3d36f"
+    },
+    {
+      "node_type": "topic",
+      "name": "phd",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_4295ed0c"
+    },
+    {
+      "node_type": "topic",
+      "name": "recent",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_8154f2ab"
+    },
+    {
+      "node_type": "topic",
+      "name": "explosion",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_0f90cac9"
+    },
+    {
+      "node_type": "topic",
+      "name": "performance",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_c05f6c23"
+    },
+    {
+      "node_type": "topic",
+      "name": "large",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_afacdb0a"
+    },
+    {
+      "node_type": "topic",
+      "name": "recent explosion",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_89eeef7f"
+    },
+    {
+      "node_type": "topic",
+      "name": "large language",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_6e2ade62"
+    },
+    {
+      "node_type": "topic",
+      "name": "language models",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_db05b5c6"
+    },
+    {
+      "node_type": "topic",
+      "name": "models llms",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_f650a12c"
+    },
+    {
+      "node_type": "author",
+      "name": "Sha Li",
+      "id": "author_87c2cab5"
+    },
+    {
+      "node_type": "author",
+      "name": "Chi Han",
+      "id": "author_a13681e5"
+    },
+    {
+      "node_type": "author",
+      "name": "Pengfei Yu",
+      "id": "author_7493ceda"
+    },
+    {
+      "node_type": "author",
+      "name": "Carl Edwards",
+      "id": "author_be010627"
+    },
+    {
+      "node_type": "author",
+      "name": "Manling Li",
+      "id": "author_42e25bf0"
+    },
+    {
+      "node_type": "author",
+      "name": "Xingyao Wang",
+      "id": "author_99b76b99"
+    },
+    {
+      "node_type": "author",
+      "name": "Yi R. Fung",
+      "id": "author_c1d28bba"
+    },
+    {
+      "node_type": "author",
+      "name": "Charles Yu",
+      "id": "author_8aa8e507"
+    },
+    {
+      "node_type": "author",
+      "name": "Joel R. Tetreault",
+      "id": "author_4a753dc5"
+    },
+    {
+      "node_type": "author",
+      "name": "Eduard H. Hovy",
+      "id": "author_248c54bf"
+    },
+    {
+      "node_type": "author",
+      "name": "Heng Ji",
+      "id": "author_5333ae88"
+    },
+    {
+      "node_type": "paper",
+      "title": "TurkicNLP: An NLP Toolkit for Turkic Languages",
+      "year": 2026,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2602.19174v2"
+    },
+    {
+      "node_type": "topic",
+      "name": "script",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_3205c0de"
+    },
+    {
+      "node_type": "topic",
+      "name": "turkic",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_00cdffbc"
+    },
+    {
+      "node_type": "topic",
+      "name": "languages",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_f3e334d4"
+    },
+    {
+      "node_type": "topic",
+      "name": "library",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_d521f765"
+    },
+    {
+      "node_type": "topic",
+      "name": "family",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_0d3fda0b"
+    },
+    {
+      "node_type": "topic",
+      "name": "spoken",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_301e67af"
+    },
+    {
+      "node_type": "topic",
+      "name": "turkic language",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_522fda34"
+    },
+    {
+      "node_type": "topic",
+      "name": "language family",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_939d534a"
+    },
+    {
+      "node_type": "topic",
+      "name": "family spoken",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_675588a5"
+    },
+    {
+      "node_type": "dataset",
+      "name": "CoNLL",
+      "description": "",
+      "confidence": 0.7,
+      "id": "dataset_0f7dfe20"
+    },
+    {
+      "node_type": "author",
+      "name": "Sherzod Hakimov",
+      "id": "author_f330d466"
+    },
+    {
+      "node_type": "paper",
+      "title": "A Survey on Patent Analysis: From NLP to Multimodal AI",
+      "year": 2024,
+      "citation_count": 0,
+      "source": "arxiv",
+      "venue": "arXiv",
+      "id": "2404.08668v3"
+    },
+    {
+      "node_type": "topic",
+      "name": "patent",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_e1fd8b7a"
+    },
+    {
+      "node_type": "topic",
+      "name": "analysis",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_3b671c88"
+    },
+    {
+      "node_type": "topic",
+      "name": "innovation",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_d3440b69"
+    },
+    {
+      "node_type": "topic",
+      "name": "cycle",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_9a4c0740"
+    },
+    {
+      "node_type": "topic",
+      "name": "researchers",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_1ca30206"
+    },
+    {
+      "node_type": "topic",
+      "name": "patent analysis",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_9c854c58"
+    },
+    {
+      "node_type": "topic",
+      "name": "pretrained language",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_82be2287"
+    },
+    {
+      "node_type": "topic",
+      "name": "models plms",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_c9e3d01f"
+    },
+    {
+      "node_type": "author",
+      "name": "Homaira Huda Shomee",
+      "id": "author_084aee2c"
+    },
+    {
+      "node_type": "author",
+      "name": "Zhu Wang",
+      "id": "author_3007d8ad"
+    },
+    {
+      "node_type": "author",
+      "name": "Sathya N. Ravi",
+      "id": "author_11e6364b"
+    },
+    {
+      "node_type": "author",
+      "name": "Sourav Medya",
+      "id": "author_4fe2f47d"
+    },
+    {
+      "node_type": "paper",
+      "title": "Graph Neural Networks: A Review of Methods and Applications",
+      "year": 2022,
+      "citation_count": 1850,
+      "source": "semantic_scholar",
+      "venue": "AI Open",
+      "id": "2301.00001"
+    },
+    {
+      "node_type": "topic",
+      "name": "graph",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_f8b0b924"
+    },
+    {
+      "node_type": "topic",
+      "name": "networks",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_3e11ca22"
+    },
+    {
+      "node_type": "topic",
+      "name": "neural",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_0eb79c26"
+    },
+    {
+      "node_type": "topic",
+      "name": "including",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_7b7813f0"
+    },
+    {
+      "node_type": "topic",
+      "name": "approaches",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_eaf0e0df"
+    },
+    {
+      "node_type": "topic",
+      "name": "classification",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_63f69c7f"
+    },
+    {
+      "node_type": "topic",
+      "name": "gnns",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_fe21a3a5"
+    },
+    {
+      "node_type": "topic",
+      "name": "recently",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_9d37489d"
+    },
+    {
+      "node_type": "topic",
+      "name": "gained",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_baf5fda5"
+    },
+    {
+      "node_type": "topic",
+      "name": "increasing",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_6ee567de"
+    },
+    {
+      "node_type": "topic",
+      "name": "graph neural",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_86a48934"
+    },
+    {
+      "node_type": "topic",
+      "name": "neural networks",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_7c191876"
+    },
+    {
+      "node_type": "topic",
+      "name": "networks gnns",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_9be2aee9"
+    },
+    {
+      "node_type": "topic",
+      "name": "recently gained",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_10281836"
+    },
+    {
+      "node_type": "topic",
+      "name": "gained increasing",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_e4158bb6"
+    },
+    {
+      "node_type": "method",
+      "name": "graph neural networks",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_ee5de883"
+    },
+    {
+      "node_type": "method",
+      "name": "gnns",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_fe21a3a5"
+    },
+    {
+      "node_type": "author",
+      "name": "Jie Zhou",
+      "id": "author_857839de"
+    },
+    {
+      "node_type": "author",
+      "name": "Ganqu Cui",
+      "id": "author_1ab852a9"
+    },
+    {
+      "node_type": "author",
+      "name": "Zhengyan Zhang",
+      "id": "author_f3919531"
+    },
+    {
+      "node_type": "paper",
+      "title": "Attention Is All You Need",
+      "year": 2017,
+      "citation_count": 95000,
+      "source": "semantic_scholar",
+      "venue": "NeurIPS",
+      "id": "2301.00002"
+    },
+    {
+      "node_type": "topic",
+      "name": "encoder",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_724a00e3"
+    },
+    {
+      "node_type": "topic",
+      "name": "decoder",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_3a6bdba8"
+    },
+    {
+      "node_type": "topic",
+      "name": "attention",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_4c4a9fd7"
+    },
+    {
+      "node_type": "topic",
+      "name": "dominant",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_a58a246f"
+    },
+    {
+      "node_type": "topic",
+      "name": "transduction",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_5117db09"
+    },
+    {
+      "node_type": "topic",
+      "name": "complex",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_4b8bafde"
+    },
+    {
+      "node_type": "topic",
+      "name": "recurrent",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_cec8b5c8"
+    },
+    {
+      "node_type": "topic",
+      "name": "dominant sequence",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_622c98e9"
+    },
+    {
+      "node_type": "topic",
+      "name": "sequence transduction",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_1e856e3f"
+    },
+    {
+      "node_type": "topic",
+      "name": "transduction models",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_c733da6d"
+    },
+    {
+      "node_type": "topic",
+      "name": "complex recurrent",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_68ba7dcc"
+    },
+    {
+      "node_type": "topic",
+      "name": "convolutional neural",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_df287398"
+    },
+    {
+      "node_type": "method",
+      "name": "convolutional neural networks",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_d19a1822"
+    },
+    {
+      "node_type": "method",
+      "name": "a new simple network",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_f563a7fa"
+    },
+    {
+      "node_type": "author",
+      "name": "Ashish Vaswani",
+      "id": "author_34e28a27"
+    },
+    {
+      "node_type": "author",
+      "name": "Noam Shazeer",
+      "id": "author_22a78a65"
+    },
+    {
+      "node_type": "author",
+      "name": "Niki Parmar",
+      "id": "author_c0227506"
+    },
+    {
+      "node_type": "paper",
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "year": 2019,
+      "citation_count": 72000,
+      "source": "semantic_scholar",
+      "venue": "NAACL",
+      "id": "2301.00003"
+    },
+    {
+      "node_type": "topic",
+      "name": "bidirectional",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_e4dc2e96"
+    },
+    {
+      "node_type": "topic",
+      "name": "representations",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_0bc81fe8"
+    },
+    {
+      "node_type": "topic",
+      "name": "introduce",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_718863f9"
+    },
+    {
+      "node_type": "topic",
+      "name": "representation",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_ee16755a"
+    },
+    {
+      "node_type": "topic",
+      "name": "called",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_4f332527"
+    },
+    {
+      "node_type": "topic",
+      "name": "new language",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_50ca28d8"
+    },
+    {
+      "node_type": "topic",
+      "name": "language representation",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_62db5713"
+    },
+    {
+      "node_type": "topic",
+      "name": "representation model",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_75ee0a33"
+    },
+    {
+      "node_type": "topic",
+      "name": "model called",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_8bfbb893"
+    },
+    {
+      "node_type": "topic",
+      "name": "called bert",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_116d8462"
+    },
+    {
+      "node_type": "author",
+      "name": "Jacob Devlin",
+      "id": "author_88afe659"
+    },
+    {
+      "node_type": "author",
+      "name": "Ming-Wei Chang",
+      "id": "author_d1d057f8"
+    },
+    {
+      "node_type": "author",
+      "name": "Kenton Lee",
+      "id": "author_b9585a2a"
+    },
+    {
+      "node_type": "paper",
+      "title": "Deep Reinforcement Learning for Multi-Agent Systems: A Survey",
+      "year": 2020,
+      "citation_count": 890,
+      "source": "semantic_scholar",
+      "venue": "IEEE TNNLS",
+      "id": "2301.00004"
+    },
+    {
+      "node_type": "topic",
+      "name": "multi",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_ea8f243d"
+    },
+    {
+      "node_type": "topic",
+      "name": "agent",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_b33aed8f"
+    },
+    {
+      "node_type": "topic",
+      "name": "reinforcement",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_e2da6dcd"
+    },
+    {
+      "node_type": "topic",
+      "name": "emerged",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_933cf3d6"
+    },
+    {
+      "node_type": "topic",
+      "name": "key",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_3c6e0b8a"
+    },
+    {
+      "node_type": "topic",
+      "name": "area",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_4b82677b"
+    },
+    {
+      "node_type": "topic",
+      "name": "autonomous",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_272e0d38"
+    },
+    {
+      "node_type": "topic",
+      "name": "multi agent",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_13909545"
+    },
+    {
+      "node_type": "topic",
+      "name": "agent reinforcement",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_a922c3f1"
+    },
+    {
+      "node_type": "topic",
+      "name": "reinforcement learning",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_4ae35cd7"
+    },
+    {
+      "node_type": "topic",
+      "name": "key area",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_76a87cdf"
+    },
+    {
+      "node_type": "topic",
+      "name": "autonomous driving",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_41858ee9"
+    },
+    {
+      "node_type": "author",
+      "name": "Thanh Thi Nguyen",
+      "id": "author_687c540b"
+    },
+    {
+      "node_type": "author",
+      "name": "Ngoc Duy Nguyen",
+      "id": "author_b25da6f3"
+    },
+    {
+      "node_type": "author",
+      "name": "Saeid Nahavandi",
+      "id": "author_298437f2"
+    },
+    {
+      "node_type": "paper",
+      "title": "Explainable AI for Healthcare: From Black Box to Glass Box",
+      "year": 2021,
+      "citation_count": 1200,
+      "source": "semantic_scholar",
+      "venue": "Information Fusion",
+      "id": "2301.00005"
+    },
+    {
+      "node_type": "topic",
+      "name": "healthcare",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_9ff28bfa"
+    },
+    {
+      "node_type": "topic",
+      "name": "increasingly",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_085fd22c"
+    },
+    {
+      "node_type": "topic",
+      "name": "deployed",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_4ceaf19f"
+    },
+    {
+      "node_type": "topic",
+      "name": "explainability",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_3695b7b7"
+    },
+    {
+      "node_type": "topic",
+      "name": "becomes",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_962fdda7"
+    },
+    {
+      "node_type": "topic",
+      "name": "critical",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_7e85bcb6"
+    },
+    {
+      "node_type": "topic",
+      "name": "reviews",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_74dcb1ce"
+    },
+    {
+      "node_type": "topic",
+      "name": "increasingly deployed",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_630a8eb6"
+    },
+    {
+      "node_type": "topic",
+      "name": "explainability becomes",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_545b04b7"
+    },
+    {
+      "node_type": "topic",
+      "name": "becomes critical",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_3dc58f25"
+    },
+    {
+      "node_type": "topic",
+      "name": "paper reviews",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_d72a3973"
+    },
+    {
+      "node_type": "topic",
+      "name": "reviews explainable",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_a510ac83"
+    },
+    {
+      "node_type": "author",
+      "name": "Amina Adadi",
+      "id": "author_d2d95140"
+    },
+    {
+      "node_type": "author",
+      "name": "Mohammed Berrada",
+      "id": "author_eb15df53"
+    },
+    {
+      "node_type": "paper",
+      "title": "Temporal Graph Neural Networks for Dynamic Social Networks",
+      "year": 2023,
+      "citation_count": 320,
+      "source": "arxiv",
+      "venue": "ICML",
+      "id": "2301.00006"
+    },
+    {
+      "node_type": "topic",
+      "name": "temporal",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_ef6299c9"
+    },
+    {
+      "node_type": "topic",
+      "name": "network",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_91e02cd2"
+    },
+    {
+      "node_type": "topic",
+      "name": "static",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_a81259ce"
+    },
+    {
+      "node_type": "topic",
+      "name": "node",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_36c45369"
+    },
+    {
+      "node_type": "topic",
+      "name": "graphs",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_e8706a28"
+    },
+    {
+      "node_type": "topic",
+      "name": "neural network",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_510bf928"
+    },
+    {
+      "node_type": "topic",
+      "name": "network models",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_31612306"
+    },
+    {
+      "node_type": "topic",
+      "name": "models focus",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_ddeccbff"
+    },
+    {
+      "node_type": "topic",
+      "name": "static graphs",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_a9e87cae"
+    },
+    {
+      "node_type": "method",
+      "name": "graph neural network",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_05e56c60"
+    },
+    {
+      "node_type": "author",
+      "name": "Emanuele Rossi",
+      "id": "author_769ae0a6"
+    },
+    {
+      "node_type": "author",
+      "name": "Ben Chamberlain",
+      "id": "author_6f47aac0"
+    },
+    {
+      "node_type": "author",
+      "name": "Fabrizio Frasca",
+      "id": "author_9c9794b9"
+    },
+    {
+      "node_type": "paper",
+      "title": "AI for Sustainability: Smart Cities and Environmental Monitoring",
+      "year": 2023,
+      "citation_count": 180,
+      "source": "semantic_scholar",
+      "venue": "Nature Sustainability",
+      "id": "2301.00007"
+    },
+    {
+      "node_type": "topic",
+      "name": "sustainability",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_ab3b66f2"
+    },
+    {
+      "node_type": "topic",
+      "name": "energy",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_05e7d19a"
+    },
+    {
+      "node_type": "topic",
+      "name": "management",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_d10af457"
+    },
+    {
+      "node_type": "topic",
+      "name": "monitoring",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_89948c7f"
+    },
+    {
+      "node_type": "topic",
+      "name": "urban",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_66b67cf4"
+    },
+    {
+      "node_type": "topic",
+      "name": "explores",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_b225d8d6"
+    },
+    {
+      "node_type": "topic",
+      "name": "intersection",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_26fef408"
+    },
+    {
+      "node_type": "topic",
+      "name": "artificial",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_13fd1a10"
+    },
+    {
+      "node_type": "topic",
+      "name": "intelligence",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_90b88493"
+    },
+    {
+      "node_type": "topic",
+      "name": "paper explores",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_f83e359e"
+    },
+    {
+      "node_type": "topic",
+      "name": "artificial intelligence",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_2dd0692c"
+    },
+    {
+      "node_type": "topic",
+      "name": "sustainability focusing",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_6bcaf116"
+    },
+    {
+      "node_type": "topic",
+      "name": "smart city",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_238eefff"
+    },
+    {
+      "node_type": "topic",
+      "name": "city applications",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_e083b3c6"
+    },
+    {
+      "node_type": "author",
+      "name": "Laura Wynter",
+      "id": "author_420c7805"
+    },
+    {
+      "node_type": "author",
+      "name": "Paolo Santi",
+      "id": "author_6c9e31b5"
+    },
+    {
+      "node_type": "author",
+      "name": "Carlo Ratti",
+      "id": "author_6f37ba5c"
+    },
+    {
+      "node_type": "paper",
+      "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+      "year": 2020,
+      "citation_count": 2100,
+      "source": "semantic_scholar",
+      "venue": "NeurIPS",
+      "id": "2301.00008"
+    },
+    {
+      "node_type": "topic",
+      "name": "retrieval",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_0868818c"
+    },
+    {
+      "node_type": "topic",
+      "name": "generation",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_9cb9ce5b"
+    },
+    {
+      "node_type": "topic",
+      "name": "approach",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_f36acfa3"
+    },
+    {
+      "node_type": "topic",
+      "name": "parametric",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_c878750a"
+    },
+    {
+      "node_type": "topic",
+      "name": "augmentation",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_3382ec48"
+    },
+    {
+      "node_type": "topic",
+      "name": "explore",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_972c97bd"
+    },
+    {
+      "node_type": "topic",
+      "name": "combines",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_8ebdda13"
+    },
+    {
+      "node_type": "topic",
+      "name": "retrieval augmentation",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_d9b50e45"
+    },
+    {
+      "node_type": "topic",
+      "name": "generation approach",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_a5897bc5"
+    },
+    {
+      "node_type": "topic",
+      "name": "combines pre",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_f3549901"
+    },
+    {
+      "node_type": "topic",
+      "name": "trained parametric",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_50133605"
+    },
+    {
+      "node_type": "author",
+      "name": "Patrick Lewis",
+      "id": "author_97f0035a"
+    },
+    {
+      "node_type": "author",
+      "name": "Ethan Perez",
+      "id": "author_e349b576"
+    },
+    {
+      "node_type": "author",
+      "name": "Aleksandra Piktus",
+      "id": "author_7bc1923f"
+    },
+    {
+      "node_type": "paper",
+      "title": "Federated Learning: Strategies for Improving Communication Efficiency",
+      "year": 2021,
+      "citation_count": 650,
+      "source": "semantic_scholar",
+      "venue": "AISTATS",
+      "id": "2301.00009"
+    },
+    {
+      "node_type": "topic",
+      "name": "communication",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_979b9328"
+    },
+    {
+      "node_type": "topic",
+      "name": "iid",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_b5210062"
+    },
+    {
+      "node_type": "topic",
+      "name": "federated",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_14394da8"
+    },
+    {
+      "node_type": "topic",
+      "name": "enables",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_5bbe727a"
+    },
+    {
+      "node_type": "topic",
+      "name": "training",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_c185ddac"
+    },
+    {
+      "node_type": "topic",
+      "name": "decentralized",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_c1b0cab2"
+    },
+    {
+      "node_type": "topic",
+      "name": "federated learning",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_be35b6f4"
+    },
+    {
+      "node_type": "topic",
+      "name": "learning enables",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_48e47740"
+    },
+    {
+      "node_type": "topic",
+      "name": "enables training",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_1f0bdd87"
+    },
+    {
+      "node_type": "topic",
+      "name": "training models",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_7387db1c"
+    },
+    {
+      "node_type": "topic",
+      "name": "models across",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_8ccfe3c7"
+    },
+    {
+      "node_type": "author",
+      "name": "Jakub Konecny",
+      "id": "author_03586dee"
+    },
+    {
+      "node_type": "author",
+      "name": "H. Brendan McMahan",
+      "id": "author_efa12f13"
+    },
+    {
+      "node_type": "author",
+      "name": "Felix Yu",
+      "id": "author_ea2286e8"
+    },
+    {
+      "node_type": "paper",
+      "title": "Vision Transformers: A Survey of Self-Supervised Pre-training",
+      "year": 2023,
+      "citation_count": 410,
+      "source": "semantic_scholar",
+      "venue": "IJCV",
+      "id": "2301.00010"
+    },
+    {
+      "node_type": "topic",
+      "name": "vision",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_f4208705"
+    },
+    {
+      "node_type": "topic",
+      "name": "vits",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_bef9651b"
+    },
+    {
+      "node_type": "topic",
+      "name": "transformers",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_48efbb83"
+    },
+    {
+      "node_type": "topic",
+      "name": "revolutionized",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_ad450251"
+    },
+    {
+      "node_type": "topic",
+      "name": "computer",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_df53ca26"
+    },
+    {
+      "node_type": "topic",
+      "name": "adapting",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_5bfb2a35"
+    },
+    {
+      "node_type": "topic",
+      "name": "architecture",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_efe79c32"
+    },
+    {
+      "node_type": "topic",
+      "name": "self",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_590f53e8"
+    },
+    {
+      "node_type": "topic",
+      "name": "vision transformers",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_db3933ae"
+    },
+    {
+      "node_type": "topic",
+      "name": "transformers vits",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_94b172cd"
+    },
+    {
+      "node_type": "topic",
+      "name": "revolutionized computer",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_e4a88e7b"
+    },
+    {
+      "node_type": "topic",
+      "name": "computer vision",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_de19e102"
+    },
+    {
+      "node_type": "author",
+      "name": "Zhuang Liu",
+      "id": "author_0c27ccf5"
+    },
+    {
+      "node_type": "author",
+      "name": "Hanzi Mao",
+      "id": "author_528302e7"
+    },
+    {
+      "node_type": "author",
+      "name": "Chao-Yuan Wu",
+      "id": "author_b254a08e"
+    },
+    {
+      "node_type": "paper",
+      "title": "Large Language Models for Scientific Discovery",
+      "year": 2024,
+      "citation_count": 95,
+      "source": "semantic_scholar",
+      "venue": "Nature Machine Intelligence",
+      "id": "2301.00011"
+    },
+    {
+      "node_type": "topic",
+      "name": "scientific",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_55a95650"
+    },
+    {
+      "node_type": "topic",
+      "name": "reasoning",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_4db0062a"
+    },
+    {
+      "node_type": "topic",
+      "name": "adapted",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_fcb84bd2"
+    },
+    {
+      "node_type": "topic",
+      "name": "drug",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_05b2815c"
+    },
+    {
+      "node_type": "topic",
+      "name": "discovery",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_54818b05"
+    },
+    {
+      "node_type": "topic",
+      "name": "scientific applications",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_157c8c82"
+    },
+    {
+      "node_type": "topic",
+      "name": "applications including",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_c74647ef"
+    },
+    {
+      "node_type": "topic",
+      "name": "including drug",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_21f7e53c"
+    },
+    {
+      "node_type": "author",
+      "name": "Tom Hope",
+      "id": "author_8d08619c"
+    },
+    {
+      "node_type": "author",
+      "name": "Doug Downey",
+      "id": "author_74064f1c"
+    },
+    {
+      "node_type": "author",
+      "name": "Daniel King",
+      "id": "author_6f139051"
+    },
+    {
+      "node_type": "paper",
+      "title": "Multi-Agent Reinforcement Learning in Supply Chain Management",
+      "year": 2024,
+      "citation_count": 42,
+      "source": "arxiv",
+      "venue": "Operations Research",
+      "id": "2301.00012"
+    },
+    {
+      "node_type": "topic",
+      "name": "supply",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_aaf9a7ad"
+    },
+    {
+      "node_type": "topic",
+      "name": "chain",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_9951112f"
+    },
+    {
+      "node_type": "topic",
+      "name": "involves",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_1d53ea99"
+    },
+    {
+      "node_type": "topic",
+      "name": "coordinating",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_fc35d08b"
+    },
+    {
+      "node_type": "topic",
+      "name": "multiple",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_ce495ab8"
+    },
+    {
+      "node_type": "topic",
+      "name": "entities",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_07214c67"
+    },
+    {
+      "node_type": "topic",
+      "name": "conflicting",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_5b8a0d83"
+    },
+    {
+      "node_type": "topic",
+      "name": "supply chain",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_4d10ee2b"
+    },
+    {
+      "node_type": "topic",
+      "name": "chain management",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_360d16df"
+    },
+    {
+      "node_type": "topic",
+      "name": "management involves",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_eb905de2"
+    },
+    {
+      "node_type": "topic",
+      "name": "involves coordinating",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_01305725"
+    },
+    {
+      "node_type": "topic",
+      "name": "coordinating multiple",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_e205b738"
+    },
+    {
+      "node_type": "method",
+      "name": "a multi-agent reinforcement learning framework",
+      "description": "",
+      "confidence": 0.75,
+      "id": "method_eeafa624"
+    },
+    {
+      "node_type": "dataset",
+      "name": "demonstrate",
+      "description": "",
+      "confidence": 0.7,
+      "id": "dataset_64c5e723"
+    },
+    {
+      "node_type": "author",
+      "name": "Reza Lotfi",
+      "id": "author_d067ba94"
+    },
+    {
+      "node_type": "author",
+      "name": "Ali Diabat",
+      "id": "author_909c00a5"
+    },
+    {
+      "node_type": "author",
+      "name": "Sarah Sajadi",
+      "id": "author_38a7dc0a"
+    },
+    {
+      "node_type": "paper",
+      "title": "Knowledge Graphs for AI: Construction, Reasoning, and Applications",
+      "year": 2022,
+      "citation_count": 780,
+      "source": "semantic_scholar",
+      "venue": "IEEE TKDE",
+      "id": "2301.00013"
+    },
+    {
+      "node_type": "topic",
+      "name": "provide",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_a4f550de"
+    },
+    {
+      "node_type": "topic",
+      "name": "structured",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_32234519"
+    },
+    {
+      "node_type": "topic",
+      "name": "survey",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_2fa7b041"
+    },
+    {
+      "node_type": "topic",
+      "name": "covers",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_a9e4f7e0"
+    },
+    {
+      "node_type": "topic",
+      "name": "knowledge graphs",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_f6f91ccb"
+    },
+    {
+      "node_type": "topic",
+      "name": "graphs provide",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_64314edb"
+    },
+    {
+      "node_type": "topic",
+      "name": "provide structured",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_eafe8ce2"
+    },
+    {
+      "node_type": "topic",
+      "name": "structured representations",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_fd02192a"
+    },
+    {
+      "node_type": "author",
+      "name": "Shaoxiong Ji",
+      "id": "author_7a03d1e4"
+    },
+    {
+      "node_type": "author",
+      "name": "Shirui Pan",
+      "id": "author_df003240"
+    },
+    {
+      "node_type": "author",
+      "name": "Erik Cambria",
+      "id": "author_5ebe9479"
+    },
+    {
+      "node_type": "paper",
+      "title": "Diffusion Models for Text-to-Image Generation",
+      "year": 2023,
+      "citation_count": 1500,
+      "source": "semantic_scholar",
+      "venue": "CVPR",
+      "id": "2301.00014"
+    },
+    {
+      "node_type": "topic",
+      "name": "diffusion",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_a12e8d62"
+    },
+    {
+      "node_type": "topic",
+      "name": "image",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_78805a22"
+    },
+    {
+      "node_type": "topic",
+      "name": "powerful",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_8b461191"
+    },
+    {
+      "node_type": "topic",
+      "name": "generative",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_e15ee067"
+    },
+    {
+      "node_type": "topic",
+      "name": "achieving",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_7959b935"
+    },
+    {
+      "node_type": "topic",
+      "name": "state",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_9ed39e2e"
+    },
+    {
+      "node_type": "topic",
+      "name": "art",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_2c5f64ab"
+    },
+    {
+      "node_type": "topic",
+      "name": "diffusion models",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_dfabe32f"
+    },
+    {
+      "node_type": "topic",
+      "name": "powerful generative",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_a83867cb"
+    },
+    {
+      "node_type": "topic",
+      "name": "generative models",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_8b2c0cc3"
+    },
+    {
+      "node_type": "topic",
+      "name": "models achieving",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_4b248fdd"
+    },
+    {
+      "node_type": "topic",
+      "name": "achieving state",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_c111f0f7"
+    },
+    {
+      "node_type": "author",
+      "name": "Robin Rombach",
+      "id": "author_8a081a4e"
+    },
+    {
+      "node_type": "author",
+      "name": "Andreas Blattmann",
+      "id": "author_6fe48f09"
+    },
+    {
+      "node_type": "author",
+      "name": "Dominik Lorenz",
+      "id": "author_324e9cb7"
+    },
+    {
+      "node_type": "paper",
+      "title": "Quantum Machine Learning: Current Trends and Future Directions",
+      "year": 2022,
+      "citation_count": 340,
+      "source": "semantic_scholar",
+      "venue": "Physical Review Letters",
+      "id": "2301.00015"
+    },
+    {
+      "node_type": "topic",
+      "name": "quantum",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_370757d2"
+    },
+    {
+      "node_type": "topic",
+      "name": "machine",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_14754f13"
+    },
+    {
+      "node_type": "topic",
+      "name": "advantages",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_faee742e"
+    },
+    {
+      "node_type": "topic",
+      "name": "optimization",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_333aba96"
+    },
+    {
+      "node_type": "topic",
+      "name": "computing",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_56c5f555"
+    },
+    {
+      "node_type": "topic",
+      "name": "potentially",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_66f1e62d"
+    },
+    {
+      "node_type": "topic",
+      "name": "achieve",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_754faff6"
+    },
+    {
+      "node_type": "topic",
+      "name": "quantum machine",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_883d36d3"
+    },
+    {
+      "node_type": "topic",
+      "name": "learning combines",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_21e2f321"
+    },
+    {
+      "node_type": "topic",
+      "name": "combines quantum",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_7d39725f"
+    },
+    {
+      "node_type": "topic",
+      "name": "quantum computing",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_7dd56d2d"
+    },
+    {
+      "node_type": "author",
+      "name": "Maria Schuld",
+      "id": "author_403084e4"
+    },
+    {
+      "node_type": "author",
+      "name": "Francesco Petruccione",
+      "id": "author_b851dae0"
+    },
+    {
+      "node_type": "paper",
+      "title": "Causal Inference in Machine Learning: Methods and Applications",
+      "year": 2021,
+      "citation_count": 560,
+      "source": "semantic_scholar",
+      "venue": "Proceedings of the IEEE",
+      "id": "2301.00016"
+    },
+    {
+      "node_type": "topic",
+      "name": "causal",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_bb19f3e1"
+    },
+    {
+      "node_type": "topic",
+      "name": "relationships",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_eaa7c88f"
+    },
+    {
+      "node_type": "topic",
+      "name": "essential",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_47027e27"
+    },
+    {
+      "node_type": "topic",
+      "name": "decision",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_b9b9e36c"
+    },
+    {
+      "node_type": "topic",
+      "name": "making",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_6582626f"
+    },
+    {
+      "node_type": "topic",
+      "name": "understanding causal",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_3aa1e3c7"
+    },
+    {
+      "node_type": "topic",
+      "name": "causal relationships",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_2c51e7ac"
+    },
+    {
+      "node_type": "topic",
+      "name": "scientific discovery",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_12a100cc"
+    },
+    {
+      "node_type": "topic",
+      "name": "decision making",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_dc6867b5"
+    },
+    {
+      "node_type": "author",
+      "name": "Bernhard Scholkopf",
+      "id": "author_df6ccc5a"
+    },
+    {
+      "node_type": "author",
+      "name": "Francesco Locatello",
+      "id": "author_69a8f18f"
+    },
+    {
+      "node_type": "author",
+      "name": "Stefan Bauer",
+      "id": "author_a68831a7"
+    },
+    {
+      "node_type": "paper",
+      "title": "Neural Architecture Search: Advances and Challenges",
+      "year": 2019,
+      "citation_count": 1800,
+      "source": "semantic_scholar",
+      "venue": "JMLR",
+      "id": "2301.00017"
+    },
+    {
+      "node_type": "topic",
+      "name": "search",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_06a943c5"
+    },
+    {
+      "node_type": "topic",
+      "name": "design",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_31c13f47"
+    },
+    {
+      "node_type": "topic",
+      "name": "strategies",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_cffbc1ef"
+    },
+    {
+      "node_type": "topic",
+      "name": "nas",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_b9d04cd4"
+    },
+    {
+      "node_type": "topic",
+      "name": "automates",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_b6d9abe8"
+    },
+    {
+      "node_type": "topic",
+      "name": "neural architecture",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_3c5c3118"
+    },
+    {
+      "node_type": "topic",
+      "name": "architecture search",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_34e4e790"
+    },
+    {
+      "node_type": "topic",
+      "name": "search automates",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_ef1b65fe"
+    },
+    {
+      "node_type": "topic",
+      "name": "network architectures",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_bf078ed8"
+    },
+    {
+      "node_type": "author",
+      "name": "Thomas Elsken",
+      "id": "author_2b32cbde"
+    },
+    {
+      "node_type": "author",
+      "name": "Jan Hendrik Metzen",
+      "id": "author_0508e236"
+    },
+    {
+      "node_type": "author",
+      "name": "Frank Hutter",
+      "id": "author_e7192dc0"
+    },
+    {
+      "node_type": "paper",
+      "title": "Foundation Models for Robotics: Bridging Language and Action",
+      "year": 2024,
+      "citation_count": 75,
+      "source": "semantic_scholar",
+      "venue": "Science Robotics",
+      "id": "2301.00018"
+    },
+    {
+      "node_type": "topic",
+      "name": "foundation",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_01baf36b"
+    },
+    {
+      "node_type": "topic",
+      "name": "internet",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_c3581516"
+    },
+    {
+      "node_type": "topic",
+      "name": "scale",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_0cb47aeb"
+    },
+    {
+      "node_type": "topic",
+      "name": "foundation models",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_bbbe361f"
+    },
+    {
+      "node_type": "topic",
+      "name": "models pre",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_08377632"
+    },
+    {
+      "node_type": "topic",
+      "name": "internet scale",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_ffea5864"
+    },
+    {
+      "node_type": "author",
+      "name": "Yuke Zhu",
+      "id": "author_7369973e"
+    },
+    {
+      "node_type": "author",
+      "name": "Fei Xia",
+      "id": "author_63861643"
+    },
+    {
+      "node_type": "author",
+      "name": "Brian Ichter",
+      "id": "author_f2d8c7fe"
+    },
+    {
+      "node_type": "paper",
+      "title": "Privacy-Preserving Machine Learning: A Comprehensive Survey",
+      "year": 2022,
+      "citation_count": 420,
+      "source": "semantic_scholar",
+      "venue": "ACM Computing Surveys",
+      "id": "2301.00019"
+    },
+    {
+      "node_type": "topic",
+      "name": "privacy",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_21cec257"
+    },
+    {
+      "node_type": "topic",
+      "name": "homomorphic",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_54e79815"
+    },
+    {
+      "node_type": "topic",
+      "name": "encryption",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_5bdf7491"
+    },
+    {
+      "node_type": "topic",
+      "name": "sensitive",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_7bdc8a92"
+    },
+    {
+      "node_type": "topic",
+      "name": "domains",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_e4e46deb"
+    },
+    {
+      "node_type": "topic",
+      "name": "homomorphic encryption",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_000f2877"
+    },
+    {
+      "node_type": "topic",
+      "name": "learning models",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_3ca9bde2"
+    },
+    {
+      "node_type": "topic",
+      "name": "sensitive domains",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_7dbe62af"
+    },
+    {
+      "node_type": "topic",
+      "name": "domains preserving",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_5c9ef199"
+    },
+    {
+      "node_type": "author",
+      "name": "Mohammad Al-Rubaie",
+      "id": "author_a85c00df"
+    },
+    {
+      "node_type": "author",
+      "name": "J. Morris Chang",
+      "id": "author_35c53299"
+    },
+    {
+      "node_type": "paper",
+      "title": "Graph Contrastive Learning: A Survey on Self-Supervised Methods",
+      "year": 2023,
+      "citation_count": 280,
+      "source": "arxiv",
+      "venue": "TPAMI",
+      "id": "2301.00020"
+    },
+    {
+      "node_type": "topic",
+      "name": "level",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_c9e9a848"
+    },
+    {
+      "node_type": "topic",
+      "name": "supervised",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_cec21583"
+    },
+    {
+      "node_type": "topic",
+      "name": "contrastive",
+      "description": "",
+      "confidence": 0.8,
+      "id": "topic_d51f0620"
+    },
+    {
+      "node_type": "topic",
+      "name": "self supervised",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_5800538b"
+    },
+    {
+      "node_type": "topic",
+      "name": "supervised learning",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_09b8339c"
+    },
+    {
+      "node_type": "topic",
+      "name": "gained attention",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_54ded210"
+    },
+    {
+      "node_type": "topic",
+      "name": "learn node",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_765f012e"
+    },
+    {
+      "node_type": "topic",
+      "name": "graph representations",
+      "description": "",
+      "confidence": 0.9,
+      "id": "topic_cb7d0322"
+    },
+    {
+      "node_type": "author",
+      "name": "Yanqiao Zhu",
+      "id": "author_5b24374c"
+    },
+    {
+      "node_type": "author",
+      "name": "Yichen Xu",
+      "id": "author_2edbc7d0"
+    },
+    {
+      "node_type": "author",
+      "name": "Feng Yu",
+      "id": "author_84bbc1d6"
+    }
+  ],
+  "links": [
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12405v2",
+      "target": "topic_0d16430e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12405v2",
+      "target": "topic_099dafc6"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12405v2",
+      "target": "topic_e4894ca1"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12405v2",
+      "target": "topic_c8d46d34"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12405v2",
+      "target": "topic_a66db021"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12405v2",
+      "target": "topic_eec34d80"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12405v2",
+      "target": "topic_e4a17041"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12405v2",
+      "target": "topic_799ad83c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12405v2",
+      "target": "topic_a53108f7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12405v2",
+      "target": "topic_c902a617"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2104.12405v2",
+      "target": "topic_94b489b4"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2104.12405v2",
+      "target": "topic_0ea3475a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2104.12405v2",
+      "target": "topic_dbfa51fc"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2104.12405v2",
+      "target": "topic_0a773699"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2104.12405v2",
+      "target": "topic_9da9a27c"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12405v2",
+      "target": "author_c26caf1f"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12405v2",
+      "target": "author_3905d13e"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12405v2",
+      "target": "author_bb202143"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12405v2",
+      "target": "author_c8917ab3"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12405v2",
+      "target": "author_47130bca"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12405v2",
+      "target": "author_c3b8f4a2"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12405v2",
+      "target": "author_f51b1d25"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12422v2",
+      "target": "topic_23d13b7d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12422v2",
+      "target": "topic_416ddd00"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12422v2",
+      "target": "topic_33f2ee11"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12422v2",
+      "target": "topic_8512ae7d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12422v2",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12422v2",
+      "target": "topic_a74ad8df"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12422v2",
+      "target": "topic_4a931512"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12422v2",
+      "target": "topic_f6182f03"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12422v2",
+      "target": "topic_12a032ce"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2104.12422v2",
+      "target": "topic_5ef76d30"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2104.12422v2",
+      "target": "topic_b9071462"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2104.12422v2",
+      "target": "topic_ba83beb9"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2104.12422v2",
+      "target": "topic_46ae7abb"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2104.12422v2",
+      "target": "topic_ff9d7b22"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2104.12422v2",
+      "target": "topic_ef32eaef"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12422v2",
+      "target": "author_c8917ab3"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12422v2",
+      "target": "author_3905d13e"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12422v2",
+      "target": "author_bb202143"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12422v2",
+      "target": "author_c26caf1f"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12422v2",
+      "target": "author_47130bca"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12422v2",
+      "target": "author_c3b8f4a2"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2104.12422v2",
+      "target": "author_f51b1d25"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.08520v1",
+      "target": "topic_c3351784"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.08520v1",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.08520v1",
+      "target": "topic_e4894ca1"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.08520v1",
+      "target": "topic_7cef8a73"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.08520v1",
+      "target": "topic_36cd38f4"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.08520v1",
+      "target": "topic_709ac5dd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.08520v1",
+      "target": "topic_7083a198"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.08520v1",
+      "target": "topic_47ed4995"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.08520v1",
+      "target": "topic_8f4ef05b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.08520v1",
+      "target": "topic_8512ae7d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2412.08520v1",
+      "target": "topic_e6ce52ff"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2412.08520v1",
+      "target": "topic_d0db2f2f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2412.08520v1",
+      "target": "topic_f122b3a9"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2412.08520v1",
+      "target": "topic_ef32eaef"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2412.08520v1",
+      "target": "topic_82510b1c"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.08520v1",
+      "target": "author_c8d3aed9"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.08520v1",
+      "target": "author_98963b22"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.08520v1",
+      "target": "author_68dadb49"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.08520v1",
+      "target": "author_e3f974fa"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.08520v1",
+      "target": "author_23918281"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.08520v1",
+      "target": "author_7b87483e"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.08520v1",
+      "target": "author_920d780d"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.08520v1",
+      "target": "author_fe7cd70e"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.08520v1",
+      "target": "author_bf44dad0"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.08520v1",
+      "target": "author_4301bf69"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.08520v1",
+      "target": "author_23e6e8ab"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2106.02359v3",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2106.02359v3",
+      "target": "topic_36fa3a19"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2106.02359v3",
+      "target": "topic_755f85c2"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2106.02359v3",
+      "target": "topic_7412df2b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2106.02359v3",
+      "target": "topic_8cd283d8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2106.02359v3",
+      "target": "topic_be6bbe4a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2106.02359v3",
+      "target": "topic_4bca2430"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2106.02359v3",
+      "target": "topic_7d793037"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2106.02359v3",
+      "target": "topic_b5fba9ff"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2106.02359v3",
+      "target": "topic_637aa1a3"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2106.02359v3",
+      "target": "topic_3069aa64"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2106.02359v3",
+      "target": "topic_13684532"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2106.02359v3",
+      "target": "topic_8c8c9f44"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2106.02359v3",
+      "target": "topic_f35d621e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2106.02359v3",
+      "target": "topic_25ad12c7"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2106.02359v3",
+      "target": "method_51de54e7"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2106.02359v3",
+      "target": "method_6ab95935"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2106.02359v3",
+      "target": "author_cc523875"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2106.02359v3",
+      "target": "author_dfea4433"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2106.02359v3",
+      "target": "author_f5653cdf"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2106.02359v3",
+      "target": "author_31dd71a8"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2106.02359v3",
+      "target": "author_fccacbce"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.04784v2",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.04784v2",
+      "target": "topic_7f021a14"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.04784v2",
+      "target": "topic_abc9a870"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.04784v2",
+      "target": "topic_a9ac5a6c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.04784v2",
+      "target": "topic_d92c3679"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.04784v2",
+      "target": "topic_6aa8906d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.04784v2",
+      "target": "topic_9a0364b9"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.04784v2",
+      "target": "topic_8512ae7d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.04784v2",
+      "target": "topic_84e3df3f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2412.04784v2",
+      "target": "topic_a6530558"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2412.04784v2",
+      "target": "topic_a034a8fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2412.04784v2",
+      "target": "topic_1bf89075"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2412.04784v2",
+      "target": "topic_a3c9547e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2412.04784v2",
+      "target": "topic_d922a059"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2412.04784v2",
+      "target": "topic_e04d1bce"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2412.04784v2",
+      "target": "method_3de0746a"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.04784v2",
+      "target": "author_91b93045"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.04784v2",
+      "target": "author_568d3ad2"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.04784v2",
+      "target": "author_12c0c14d"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.04784v2",
+      "target": "author_96aa4f34"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.04784v2",
+      "target": "author_e09ae820"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.04784v2",
+      "target": "author_e6f3d781"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2412.04784v2",
+      "target": "author_9d7da9ff"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00895v1",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00895v1",
+      "target": "topic_fb5c7f9b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00895v1",
+      "target": "topic_07ccfe36"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00895v1",
+      "target": "topic_0dfcce75"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00895v1",
+      "target": "topic_75d37c6c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00895v1",
+      "target": "topic_1e0f2187"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00895v1",
+      "target": "topic_90ed4512"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00895v1",
+      "target": "topic_c7cae852"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00895v1",
+      "target": "topic_34248a9b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00895v1",
+      "target": "topic_60aef5b4"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.00895v1",
+      "target": "topic_29b90958"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.00895v1",
+      "target": "topic_d5b95b02"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.00895v1",
+      "target": "topic_c7cb2fa7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.00895v1",
+      "target": "topic_d15b9238"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.00895v1",
+      "target": "topic_80c18801"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2105.00895v1",
+      "target": "author_9751d7da"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2010.03061v1",
+      "target": "topic_e3fd2afa"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2010.03061v1",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2010.03061v1",
+      "target": "topic_b31df235"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2010.03061v1",
+      "target": "topic_1818d506"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2010.03061v1",
+      "target": "topic_224daf9b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2010.03061v1",
+      "target": "topic_29e4b66f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2010.03061v1",
+      "target": "topic_9472cc4c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2010.03061v1",
+      "target": "topic_a6530558"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2010.03061v1",
+      "target": "topic_2067d966"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2010.03061v1",
+      "target": "topic_8a2094d7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2010.03061v1",
+      "target": "topic_f9fd3b23"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2010.03061v1",
+      "target": "topic_aa623865"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2010.03061v1",
+      "target": "topic_07e30924"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2010.03061v1",
+      "target": "topic_6be8b55e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2010.03061v1",
+      "target": "topic_d47854be"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2010.03061v1",
+      "target": "method_8b91831e"
+    },
+    {
+      "relation_type": "uses_dataset",
+      "weight": 0.7,
+      "source": "2010.03061v1",
+      "target": "dataset_21582c6c"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2010.03061v1",
+      "target": "author_e0790e60"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2408.05664v1",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2408.05664v1",
+      "target": "topic_c0db7d4e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2408.05664v1",
+      "target": "topic_a658279f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2408.05664v1",
+      "target": "topic_25a9ac40"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2408.05664v1",
+      "target": "topic_7e3f6604"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2408.05664v1",
+      "target": "topic_b8a9f715"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2408.05664v1",
+      "target": "topic_d14a8022"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2408.05664v1",
+      "target": "topic_75d37c6c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2408.05664v1",
+      "target": "topic_0dfcce75"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2408.05664v1",
+      "target": "topic_61b3a8fa"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2408.05664v1",
+      "target": "topic_cb8fb9da"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2408.05664v1",
+      "target": "topic_7b448a67"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2408.05664v1",
+      "target": "topic_ee1eb392"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2408.05664v1",
+      "target": "topic_dd735465"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2408.05664v1",
+      "target": "topic_ef32eaef"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2408.05664v1",
+      "target": "author_12e76ad6"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2408.05664v1",
+      "target": "author_c563f587"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2204.07288v1",
+      "target": "topic_5d6db9a1"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2204.07288v1",
+      "target": "topic_ac5552fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2204.07288v1",
+      "target": "topic_b027168e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2204.07288v1",
+      "target": "topic_21e119da"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2204.07288v1",
+      "target": "topic_20f35e63"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2204.07288v1",
+      "target": "topic_fa1c731e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2204.07288v1",
+      "target": "topic_ea170e2c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2204.07288v1",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2204.07288v1",
+      "target": "topic_0f526403"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2204.07288v1",
+      "target": "topic_224b0b28"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2204.07288v1",
+      "target": "topic_aa4d3c82"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2204.07288v1",
+      "target": "topic_eb5d61f6"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2204.07288v1",
+      "target": "topic_d9bfb9b0"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2204.07288v1",
+      "target": "topic_f199594c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2204.07288v1",
+      "target": "topic_78ada9a3"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2204.07288v1",
+      "target": "method_fca9700d"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2204.07288v1",
+      "target": "author_c1d733c3"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2204.07288v1",
+      "target": "author_4706aef0"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2204.07288v1",
+      "target": "author_5be9ef11"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2102.13461v1",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2102.13461v1",
+      "target": "topic_702818a8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2102.13461v1",
+      "target": "topic_615c72b9"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2102.13461v1",
+      "target": "topic_b1bc248a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2102.13461v1",
+      "target": "topic_12a032ce"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2102.13461v1",
+      "target": "topic_d05b6ed7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2102.13461v1",
+      "target": "topic_1818d506"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2102.13461v1",
+      "target": "topic_29e4b66f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2102.13461v1",
+      "target": "topic_d0718225"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2102.13461v1",
+      "target": "topic_a9ac5a6c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2102.13461v1",
+      "target": "topic_2f64267c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2102.13461v1",
+      "target": "topic_4dff5453"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2102.13461v1",
+      "target": "topic_206aeaef"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2102.13461v1",
+      "target": "topic_6fb176dd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2102.13461v1",
+      "target": "topic_24bc49d3"
+    },
+    {
+      "relation_type": "uses_dataset",
+      "weight": 0.7,
+      "source": "2102.13461v1",
+      "target": "dataset_a116c012"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2102.13461v1",
+      "target": "author_bea0f62d"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2102.13461v1",
+      "target": "author_d6bfb6b9"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.13704v1",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.13704v1",
+      "target": "topic_8512ae7d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.13704v1",
+      "target": "topic_22af645d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.13704v1",
+      "target": "topic_8f4ef05b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.13704v1",
+      "target": "topic_4374990d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.13704v1",
+      "target": "topic_8d777f38"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.13704v1",
+      "target": "topic_c5570472"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.13704v1",
+      "target": "topic_a542e9b7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.13704v1",
+      "target": "topic_f9cb12f8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.13704v1",
+      "target": "topic_5ef76d30"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.13704v1",
+      "target": "topic_ef32eaef"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.13704v1",
+      "target": "topic_82510b1c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.13704v1",
+      "target": "topic_6944ad7a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.13704v1",
+      "target": "topic_47c87f2e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.13704v1",
+      "target": "topic_2af12233"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2105.13704v1",
+      "target": "method_f0c50d47"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2105.13704v1",
+      "target": "author_fa14a2e5"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2105.13704v1",
+      "target": "author_e051bcbd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00813v2",
+      "target": "topic_ac5552fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00813v2",
+      "target": "topic_5fe05153"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00813v2",
+      "target": "topic_6bf9e70a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00813v2",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00813v2",
+      "target": "topic_958153f1"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00813v2",
+      "target": "topic_333e3d52"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00813v2",
+      "target": "topic_8fd8fd9e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00813v2",
+      "target": "topic_3de0746a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00813v2",
+      "target": "topic_2cb1ad4f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2105.00813v2",
+      "target": "topic_229e5b13"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.00813v2",
+      "target": "topic_c810aa86"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.00813v2",
+      "target": "topic_7c899632"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.00813v2",
+      "target": "topic_92a1431f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.00813v2",
+      "target": "topic_f95ae456"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2105.00813v2",
+      "target": "topic_e32e8185"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2105.00813v2",
+      "target": "method_3de0746a"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2105.00813v2",
+      "target": "method_43d75035"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2105.00813v2",
+      "target": "author_85dc56a5"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2105.00813v2",
+      "target": "author_6e847e17"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2105.00813v2",
+      "target": "author_ae3f3cd1"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2310.20633v1",
+      "target": "topic_06e3d36f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2310.20633v1",
+      "target": "topic_22af645d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2310.20633v1",
+      "target": "topic_8512ae7d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2310.20633v1",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2310.20633v1",
+      "target": "topic_4295ed0c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2310.20633v1",
+      "target": "topic_8154f2ab"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2310.20633v1",
+      "target": "topic_0f90cac9"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2310.20633v1",
+      "target": "topic_c05f6c23"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2310.20633v1",
+      "target": "topic_afacdb0a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2310.20633v1",
+      "target": "topic_ac5552fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2310.20633v1",
+      "target": "topic_89eeef7f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2310.20633v1",
+      "target": "topic_6e2ade62"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2310.20633v1",
+      "target": "topic_db05b5c6"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2310.20633v1",
+      "target": "topic_f650a12c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2310.20633v1",
+      "target": "topic_ef32eaef"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2310.20633v1",
+      "target": "author_87c2cab5"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2310.20633v1",
+      "target": "author_a13681e5"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2310.20633v1",
+      "target": "author_7493ceda"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2310.20633v1",
+      "target": "author_be010627"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2310.20633v1",
+      "target": "author_42e25bf0"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2310.20633v1",
+      "target": "author_99b76b99"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2310.20633v1",
+      "target": "author_c1d28bba"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2310.20633v1",
+      "target": "author_8aa8e507"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2310.20633v1",
+      "target": "author_4a753dc5"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2310.20633v1",
+      "target": "author_248c54bf"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2310.20633v1",
+      "target": "author_5333ae88"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2602.19174v2",
+      "target": "topic_3205c0de"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2602.19174v2",
+      "target": "topic_8512ae7d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2602.19174v2",
+      "target": "topic_00cdffbc"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2602.19174v2",
+      "target": "topic_c5570472"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2602.19174v2",
+      "target": "topic_f3e334d4"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2602.19174v2",
+      "target": "topic_d521f765"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2602.19174v2",
+      "target": "topic_8f4ef05b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2602.19174v2",
+      "target": "topic_4374990d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2602.19174v2",
+      "target": "topic_0d3fda0b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2602.19174v2",
+      "target": "topic_301e67af"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2602.19174v2",
+      "target": "topic_ef32eaef"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2602.19174v2",
+      "target": "topic_82510b1c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2602.19174v2",
+      "target": "topic_522fda34"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2602.19174v2",
+      "target": "topic_939d534a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2602.19174v2",
+      "target": "topic_675588a5"
+    },
+    {
+      "relation_type": "uses_dataset",
+      "weight": 0.7,
+      "source": "2602.19174v2",
+      "target": "dataset_0f7dfe20"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2602.19174v2",
+      "target": "author_f330d466"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2404.08668v3",
+      "target": "topic_e1fd8b7a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2404.08668v3",
+      "target": "topic_8512ae7d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2404.08668v3",
+      "target": "topic_3b671c88"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2404.08668v3",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2404.08668v3",
+      "target": "topic_8154f2ab"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2404.08668v3",
+      "target": "topic_ac5552fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2404.08668v3",
+      "target": "topic_d3440b69"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2404.08668v3",
+      "target": "topic_2cb1ad4f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2404.08668v3",
+      "target": "topic_9a4c0740"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2404.08668v3",
+      "target": "topic_1ca30206"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2404.08668v3",
+      "target": "topic_9c854c58"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2404.08668v3",
+      "target": "topic_db05b5c6"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2404.08668v3",
+      "target": "topic_92a1431f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2404.08668v3",
+      "target": "topic_82be2287"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2404.08668v3",
+      "target": "topic_c9e3d01f"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2404.08668v3",
+      "target": "author_084aee2c"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2404.08668v3",
+      "target": "author_3007d8ad"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2404.08668v3",
+      "target": "author_11e6364b"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2404.08668v3",
+      "target": "author_4fe2f47d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00001",
+      "target": "topic_f8b0b924"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00001",
+      "target": "topic_3e11ca22"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00001",
+      "target": "topic_0eb79c26"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00001",
+      "target": "topic_7b7813f0"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00001",
+      "target": "topic_eaf0e0df"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00001",
+      "target": "topic_63f69c7f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00001",
+      "target": "topic_fe21a3a5"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00001",
+      "target": "topic_9d37489d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00001",
+      "target": "topic_baf5fda5"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00001",
+      "target": "topic_6ee567de"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00001",
+      "target": "topic_86a48934"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00001",
+      "target": "topic_7c191876"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00001",
+      "target": "topic_9be2aee9"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00001",
+      "target": "topic_10281836"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00001",
+      "target": "topic_e4158bb6"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2301.00001",
+      "target": "method_ee5de883"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2301.00001",
+      "target": "method_fe21a3a5"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00001",
+      "target": "author_857839de"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00001",
+      "target": "author_1ab852a9"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00001",
+      "target": "author_f3919531"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2022,
+      "source": "2301.00001",
+      "target": "2301.00002"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2022,
+      "source": "2301.00001",
+      "target": "2301.00003"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00002",
+      "target": "topic_ac5552fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00002",
+      "target": "topic_a66db021"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00002",
+      "target": "topic_724a00e3"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00002",
+      "target": "topic_3a6bdba8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00002",
+      "target": "topic_4c4a9fd7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00002",
+      "target": "topic_a58a246f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00002",
+      "target": "topic_fa1c731e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00002",
+      "target": "topic_5117db09"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00002",
+      "target": "topic_4b8bafde"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00002",
+      "target": "topic_cec8b5c8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00002",
+      "target": "topic_622c98e9"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00002",
+      "target": "topic_1e856e3f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00002",
+      "target": "topic_c733da6d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00002",
+      "target": "topic_68ba7dcc"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00002",
+      "target": "topic_df287398"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2301.00002",
+      "target": "method_d19a1822"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2301.00002",
+      "target": "method_f563a7fa"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00002",
+      "target": "author_34e28a27"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00002",
+      "target": "author_22a78a65"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00002",
+      "target": "author_c0227506"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00003",
+      "target": "topic_3de0746a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00003",
+      "target": "topic_20f35e63"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00003",
+      "target": "topic_e4dc2e96"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00003",
+      "target": "topic_0bc81fe8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00003",
+      "target": "topic_6bf9e70a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00003",
+      "target": "topic_718863f9"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00003",
+      "target": "topic_22af645d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00003",
+      "target": "topic_8512ae7d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00003",
+      "target": "topic_ee16755a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00003",
+      "target": "topic_4f332527"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00003",
+      "target": "topic_50ca28d8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00003",
+      "target": "topic_62db5713"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00003",
+      "target": "topic_75ee0a33"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00003",
+      "target": "topic_8bfbb893"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00003",
+      "target": "topic_116d8462"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2301.00003",
+      "target": "method_3de0746a"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00003",
+      "target": "author_88afe659"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00003",
+      "target": "author_d1d057f8"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00003",
+      "target": "author_b9585a2a"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2019,
+      "source": "2301.00003",
+      "target": "2301.00002"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00004",
+      "target": "topic_ea8f243d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00004",
+      "target": "topic_b33aed8f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00004",
+      "target": "topic_e2da6dcd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00004",
+      "target": "topic_25a9ac40"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00004",
+      "target": "topic_933cf3d6"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00004",
+      "target": "topic_3c6e0b8a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00004",
+      "target": "topic_4b82677b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00004",
+      "target": "topic_7412df2b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00004",
+      "target": "topic_b5fba9ff"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00004",
+      "target": "topic_272e0d38"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00004",
+      "target": "topic_13909545"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00004",
+      "target": "topic_a922c3f1"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00004",
+      "target": "topic_4ae35cd7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00004",
+      "target": "topic_76a87cdf"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00004",
+      "target": "topic_41858ee9"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00004",
+      "target": "author_687c540b"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00004",
+      "target": "author_b25da6f3"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00004",
+      "target": "author_298437f2"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2020,
+      "source": "2301.00004",
+      "target": "2301.00001"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00005",
+      "target": "topic_9ff28bfa"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00005",
+      "target": "topic_7b7813f0"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00005",
+      "target": "topic_b31df235"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00005",
+      "target": "topic_085fd22c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00005",
+      "target": "topic_4ceaf19f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00005",
+      "target": "topic_3695b7b7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00005",
+      "target": "topic_962fdda7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00005",
+      "target": "topic_7e85bcb6"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00005",
+      "target": "topic_7e3f6604"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00005",
+      "target": "topic_74dcb1ce"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00005",
+      "target": "topic_630a8eb6"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00005",
+      "target": "topic_545b04b7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00005",
+      "target": "topic_3dc58f25"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00005",
+      "target": "topic_d72a3973"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00005",
+      "target": "topic_a510ac83"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00005",
+      "target": "author_d2d95140"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00005",
+      "target": "author_eb15df53"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2021,
+      "source": "2301.00005",
+      "target": "2301.00003"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00006",
+      "target": "topic_ef6299c9"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00006",
+      "target": "topic_f8b0b924"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00006",
+      "target": "topic_0eb79c26"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00006",
+      "target": "topic_91e02cd2"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00006",
+      "target": "topic_a81259ce"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00006",
+      "target": "topic_3e11ca22"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00006",
+      "target": "topic_36c45369"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00006",
+      "target": "topic_ac5552fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00006",
+      "target": "topic_1818d506"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00006",
+      "target": "topic_e8706a28"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00006",
+      "target": "topic_86a48934"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00006",
+      "target": "topic_510bf928"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00006",
+      "target": "topic_31612306"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00006",
+      "target": "topic_ddeccbff"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00006",
+      "target": "topic_a9e87cae"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2301.00006",
+      "target": "method_05e56c60"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00006",
+      "target": "author_769ae0a6"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00006",
+      "target": "author_6f47aac0"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00006",
+      "target": "author_9c9794b9"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2023,
+      "source": "2301.00006",
+      "target": "2301.00001"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2023,
+      "source": "2301.00006",
+      "target": "2301.00004"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00007",
+      "target": "topic_ab3b66f2"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00007",
+      "target": "topic_05e7d19a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00007",
+      "target": "topic_d10af457"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00007",
+      "target": "topic_89948c7f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00007",
+      "target": "topic_66b67cf4"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00007",
+      "target": "topic_7e3f6604"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00007",
+      "target": "topic_b225d8d6"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00007",
+      "target": "topic_26fef408"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00007",
+      "target": "topic_13fd1a10"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00007",
+      "target": "topic_90b88493"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00007",
+      "target": "topic_f83e359e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00007",
+      "target": "topic_2dd0692c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00007",
+      "target": "topic_6bcaf116"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00007",
+      "target": "topic_238eefff"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00007",
+      "target": "topic_e083b3c6"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2301.00007",
+      "target": "method_6ab95935"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00007",
+      "target": "author_420c7805"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00007",
+      "target": "author_6c9e31b5"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00007",
+      "target": "author_6f37ba5c"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2023,
+      "source": "2301.00007",
+      "target": "2301.00004"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00008",
+      "target": "topic_0868818c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00008",
+      "target": "topic_9cb9ce5b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00008",
+      "target": "topic_f36acfa3"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00008",
+      "target": "topic_c878750a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00008",
+      "target": "topic_ac5552fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00008",
+      "target": "topic_3382ec48"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00008",
+      "target": "topic_972c97bd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00008",
+      "target": "topic_8ebdda13"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00008",
+      "target": "topic_6bf9e70a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00008",
+      "target": "topic_8fd8fd9e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00008",
+      "target": "topic_d9b50e45"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00008",
+      "target": "topic_a5897bc5"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00008",
+      "target": "topic_f3549901"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00008",
+      "target": "topic_c810aa86"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00008",
+      "target": "topic_50133605"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00008",
+      "target": "author_97f0035a"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00008",
+      "target": "author_e349b576"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00008",
+      "target": "author_7bc1923f"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2020,
+      "source": "2301.00008",
+      "target": "2301.00002"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2020,
+      "source": "2301.00008",
+      "target": "2301.00003"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00009",
+      "target": "topic_8d777f38"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00009",
+      "target": "topic_979b9328"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00009",
+      "target": "topic_b5210062"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00009",
+      "target": "topic_14394da8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00009",
+      "target": "topic_25a9ac40"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00009",
+      "target": "topic_5bbe727a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00009",
+      "target": "topic_c185ddac"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00009",
+      "target": "topic_ac5552fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00009",
+      "target": "topic_c5570472"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00009",
+      "target": "topic_c1b0cab2"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00009",
+      "target": "topic_be35b6f4"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00009",
+      "target": "topic_48e47740"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00009",
+      "target": "topic_1f0bdd87"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00009",
+      "target": "topic_7387db1c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00009",
+      "target": "topic_8ccfe3c7"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00009",
+      "target": "author_03586dee"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00009",
+      "target": "author_efa12f13"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00009",
+      "target": "author_ea2286e8"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2021,
+      "source": "2301.00009",
+      "target": "2301.00004"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00010",
+      "target": "topic_f4208705"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00010",
+      "target": "topic_bef9651b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00010",
+      "target": "topic_48efbb83"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00010",
+      "target": "topic_ad450251"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00010",
+      "target": "topic_df53ca26"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00010",
+      "target": "topic_5bfb2a35"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00010",
+      "target": "topic_5fe05153"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00010",
+      "target": "topic_efe79c32"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00010",
+      "target": "topic_4c5adbed"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00010",
+      "target": "topic_590f53e8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00010",
+      "target": "topic_db3933ae"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00010",
+      "target": "topic_94b172cd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00010",
+      "target": "topic_e4a88e7b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00010",
+      "target": "topic_de19e102"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00010",
+      "target": "topic_7c899632"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00010",
+      "target": "author_0c27ccf5"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00010",
+      "target": "author_528302e7"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00010",
+      "target": "author_b254a08e"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2023,
+      "source": "2301.00010",
+      "target": "2301.00002"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2023,
+      "source": "2301.00010",
+      "target": "2301.00003"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00011",
+      "target": "topic_55a95650"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00011",
+      "target": "topic_7b7813f0"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00011",
+      "target": "topic_4db0062a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00011",
+      "target": "topic_afacdb0a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00011",
+      "target": "topic_8512ae7d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00011",
+      "target": "topic_ac5552fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00011",
+      "target": "topic_fcb84bd2"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00011",
+      "target": "topic_b5fba9ff"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00011",
+      "target": "topic_05b2815c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00011",
+      "target": "topic_54818b05"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00011",
+      "target": "topic_6e2ade62"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00011",
+      "target": "topic_db05b5c6"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00011",
+      "target": "topic_157c8c82"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00011",
+      "target": "topic_c74647ef"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00011",
+      "target": "topic_21f7e53c"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00011",
+      "target": "author_8d08619c"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00011",
+      "target": "author_74064f1c"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00011",
+      "target": "author_6f139051"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2024,
+      "source": "2301.00011",
+      "target": "2301.00003"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2024,
+      "source": "2301.00011",
+      "target": "2301.00008"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2024,
+      "source": "2301.00011",
+      "target": "2301.00013"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00012",
+      "target": "topic_aaf9a7ad"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00012",
+      "target": "topic_9951112f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00012",
+      "target": "topic_d10af457"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00012",
+      "target": "topic_b33aed8f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00012",
+      "target": "topic_1d53ea99"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00012",
+      "target": "topic_fc35d08b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00012",
+      "target": "topic_ce495ab8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00012",
+      "target": "topic_272e0d38"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00012",
+      "target": "topic_07214c67"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00012",
+      "target": "topic_5b8a0d83"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00012",
+      "target": "topic_4d10ee2b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00012",
+      "target": "topic_360d16df"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00012",
+      "target": "topic_eb905de2"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00012",
+      "target": "topic_01305725"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00012",
+      "target": "topic_e205b738"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2301.00012",
+      "target": "method_eeafa624"
+    },
+    {
+      "relation_type": "uses_dataset",
+      "weight": 0.7,
+      "source": "2301.00012",
+      "target": "dataset_64c5e723"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00012",
+      "target": "author_d067ba94"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00012",
+      "target": "author_909c00a5"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00012",
+      "target": "author_38a7dc0a"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2024,
+      "source": "2301.00012",
+      "target": "2301.00004"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00013",
+      "target": "topic_a542e9b7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00013",
+      "target": "topic_e8706a28"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00013",
+      "target": "topic_f8b0b924"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00013",
+      "target": "topic_a4f550de"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00013",
+      "target": "topic_32234519"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00013",
+      "target": "topic_0bc81fe8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00013",
+      "target": "topic_4bca2430"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00013",
+      "target": "topic_7d793037"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00013",
+      "target": "topic_2fa7b041"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00013",
+      "target": "topic_a9e4f7e0"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00013",
+      "target": "topic_f6f91ccb"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00013",
+      "target": "topic_64314edb"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00013",
+      "target": "topic_eafe8ce2"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00013",
+      "target": "topic_fd02192a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00013",
+      "target": "topic_13684532"
+    },
+    {
+      "relation_type": "uses_method",
+      "weight": 0.75,
+      "source": "2301.00013",
+      "target": "method_ee5de883"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00013",
+      "target": "author_7a03d1e4"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00013",
+      "target": "author_df003240"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00013",
+      "target": "author_5ebe9479"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2022,
+      "source": "2301.00013",
+      "target": "2301.00001"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2022,
+      "source": "2301.00013",
+      "target": "2301.00003"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00014",
+      "target": "topic_a12e8d62"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00014",
+      "target": "topic_ac5552fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00014",
+      "target": "topic_78805a22"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00014",
+      "target": "topic_9cb9ce5b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00014",
+      "target": "topic_933cf3d6"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00014",
+      "target": "topic_8b461191"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00014",
+      "target": "topic_e15ee067"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00014",
+      "target": "topic_7959b935"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00014",
+      "target": "topic_9ed39e2e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00014",
+      "target": "topic_2c5f64ab"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00014",
+      "target": "topic_dfabe32f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00014",
+      "target": "topic_a83867cb"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00014",
+      "target": "topic_8b2c0cc3"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00014",
+      "target": "topic_4b248fdd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00014",
+      "target": "topic_c111f0f7"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00014",
+      "target": "author_8a081a4e"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00014",
+      "target": "author_6fe48f09"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00014",
+      "target": "author_324e9cb7"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2023,
+      "source": "2301.00014",
+      "target": "2301.00002"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2023,
+      "source": "2301.00014",
+      "target": "2301.00010"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00015",
+      "target": "topic_370757d2"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00015",
+      "target": "topic_14754f13"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00015",
+      "target": "topic_25a9ac40"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00015",
+      "target": "topic_faee742e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00015",
+      "target": "topic_333aba96"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00015",
+      "target": "topic_8ebdda13"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00015",
+      "target": "topic_56c5f555"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00015",
+      "target": "topic_66f1e62d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00015",
+      "target": "topic_754faff6"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00015",
+      "target": "topic_23d13b7d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00015",
+      "target": "topic_e04d1bce"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00015",
+      "target": "topic_883d36d3"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00015",
+      "target": "topic_21e2f321"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00015",
+      "target": "topic_7d39725f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00015",
+      "target": "topic_7dd56d2d"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00015",
+      "target": "author_403084e4"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00015",
+      "target": "author_b851dae0"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2022,
+      "source": "2301.00015",
+      "target": "2301.00002"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00016",
+      "target": "topic_bb19f3e1"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00016",
+      "target": "topic_25a9ac40"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00016",
+      "target": "topic_224daf9b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00016",
+      "target": "topic_eaa7c88f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00016",
+      "target": "topic_47027e27"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00016",
+      "target": "topic_55a95650"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00016",
+      "target": "topic_54818b05"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00016",
+      "target": "topic_b9b9e36c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00016",
+      "target": "topic_6582626f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00016",
+      "target": "topic_7e3f6604"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00016",
+      "target": "topic_3aa1e3c7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00016",
+      "target": "topic_2c51e7ac"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00016",
+      "target": "topic_12a100cc"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00016",
+      "target": "topic_dc6867b5"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00016",
+      "target": "topic_d72a3973"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00016",
+      "target": "author_df6ccc5a"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00016",
+      "target": "author_69a8f18f"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00016",
+      "target": "author_a68831a7"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2021,
+      "source": "2301.00016",
+      "target": "2301.00003"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00017",
+      "target": "topic_06a943c5"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00017",
+      "target": "topic_333e3d52"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00017",
+      "target": "topic_0eb79c26"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00017",
+      "target": "topic_31c13f47"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00017",
+      "target": "topic_cffbc1ef"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00017",
+      "target": "topic_a9ac5a6c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00017",
+      "target": "topic_b9d04cd4"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00017",
+      "target": "topic_efe79c32"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00017",
+      "target": "topic_b6d9abe8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00017",
+      "target": "topic_91e02cd2"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00017",
+      "target": "topic_3c5c3118"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00017",
+      "target": "topic_34e4e790"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00017",
+      "target": "topic_ef1b65fe"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00017",
+      "target": "topic_510bf928"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00017",
+      "target": "topic_bf078ed8"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00017",
+      "target": "author_2b32cbde"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00017",
+      "target": "author_0508e236"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00017",
+      "target": "author_e7192dc0"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2019,
+      "source": "2301.00017",
+      "target": "2301.00001"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2019,
+      "source": "2301.00017",
+      "target": "2301.00002"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00018",
+      "target": "topic_ac5552fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00018",
+      "target": "topic_8512ae7d"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00018",
+      "target": "topic_4bca2430"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00018",
+      "target": "topic_01baf36b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00018",
+      "target": "topic_6bf9e70a"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00018",
+      "target": "topic_8fd8fd9e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00018",
+      "target": "topic_c3581516"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00018",
+      "target": "topic_0cb47aeb"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00018",
+      "target": "topic_8d777f38"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00018",
+      "target": "topic_a4f550de"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00018",
+      "target": "topic_db05b5c6"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00018",
+      "target": "topic_bbbe361f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00018",
+      "target": "topic_08377632"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00018",
+      "target": "topic_c810aa86"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00018",
+      "target": "topic_ffea5864"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00018",
+      "target": "author_7369973e"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00018",
+      "target": "author_63861643"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00018",
+      "target": "author_f2d8c7fe"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2024,
+      "source": "2301.00018",
+      "target": "2301.00002"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2024,
+      "source": "2301.00018",
+      "target": "2301.00011"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00019",
+      "target": "topic_21cec257"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00019",
+      "target": "topic_25a9ac40"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00019",
+      "target": "topic_8d777f38"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00019",
+      "target": "topic_54e79815"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00019",
+      "target": "topic_5bdf7491"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00019",
+      "target": "topic_14754f13"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00019",
+      "target": "topic_ac5552fd"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00019",
+      "target": "topic_4ceaf19f"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00019",
+      "target": "topic_7bdc8a92"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00019",
+      "target": "topic_e4e46deb"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00019",
+      "target": "topic_000f2877"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00019",
+      "target": "topic_e04d1bce"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00019",
+      "target": "topic_3ca9bde2"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00019",
+      "target": "topic_7dbe62af"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00019",
+      "target": "topic_5c9ef199"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00019",
+      "target": "author_a85c00df"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00019",
+      "target": "author_35c53299"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2022,
+      "source": "2301.00019",
+      "target": "2301.00009"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00020",
+      "target": "topic_f8b0b924"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00020",
+      "target": "topic_c9e9a848"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00020",
+      "target": "topic_cec21583"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00020",
+      "target": "topic_25a9ac40"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00020",
+      "target": "topic_36c45369"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00020",
+      "target": "topic_d51f0620"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00020",
+      "target": "topic_590f53e8"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00020",
+      "target": "topic_e8706a28"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00020",
+      "target": "topic_baf5fda5"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.8,
+      "source": "2301.00020",
+      "target": "topic_4c4a9fd7"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00020",
+      "target": "topic_5800538b"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00020",
+      "target": "topic_09b8339c"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00020",
+      "target": "topic_54ded210"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00020",
+      "target": "topic_765f012e"
+    },
+    {
+      "relation_type": "related_to",
+      "weight": 0.9,
+      "source": "2301.00020",
+      "target": "topic_cb7d0322"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00020",
+      "target": "author_5b24374c"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00020",
+      "target": "author_2edbc7d0"
+    },
+    {
+      "relation_type": "authored_by",
+      "weight": 1.0,
+      "source": "2301.00020",
+      "target": "author_84bbc1d6"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2023,
+      "source": "2301.00020",
+      "target": "2301.00001"
+    },
+    {
+      "relation_type": "cites",
+      "weight": 1.0,
+      "year": 2023,
+      "source": "2301.00020",
+      "target": "2301.00006"
+    }
+  ]
+}

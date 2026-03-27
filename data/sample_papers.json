@@ -1,0 +1,222 @@
+[
+  {
+    "paper_id": "2301.00001",
+    "title": "Graph Neural Networks: A Review of Methods and Applications",
+    "abstract": "Graph neural networks (GNNs) have recently gained increasing popularity in various domains, including social networks, molecular biology, and recommendation systems. In this survey, we provide a comprehensive overview of graph neural networks, including spectral approaches, spatial approaches, and attention-based methods. We discuss key challenges such as scalability, over-smoothing, and expressiveness. We also review applications in node classification, link prediction, and graph classification tasks.",
+    "authors": [{"name": "Jie Zhou"}, {"name": "Ganqu Cui"}, {"name": "Zhengyan Zhang"}],
+    "year": 2022,
+    "venue": "AI Open",
+    "citation_count": 1850,
+    "source": "semantic_scholar",
+    "keywords": ["graph neural networks", "deep learning", "node classification", "link prediction"]
+  },
+  {
+    "paper_id": "2301.00002",
+    "title": "Attention Is All You Need",
+    "abstract": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on machine translation tasks show these models to be superior in quality while being more parallelizable.",
+    "authors": [{"name": "Ashish Vaswani"}, {"name": "Noam Shazeer"}, {"name": "Niki Parmar"}],
+    "year": 2017,
+    "venue": "NeurIPS",
+    "citation_count": 95000,
+    "source": "semantic_scholar",
+    "keywords": ["transformer", "attention mechanism", "machine translation", "deep learning"]
+  },
+  {
+    "paper_id": "2301.00003",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "abstract": "We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. BERT is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers. The pre-trained BERT model can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks.",
+    "authors": [{"name": "Jacob Devlin"}, {"name": "Ming-Wei Chang"}, {"name": "Kenton Lee"}],
+    "year": 2019,
+    "venue": "NAACL",
+    "citation_count": 72000,
+    "source": "semantic_scholar",
+    "keywords": ["BERT", "pre-training", "transformers", "NLP"]
+  },
+  {
+    "paper_id": "2301.00004",
+    "title": "Deep Reinforcement Learning for Multi-Agent Systems: A Survey",
+    "abstract": "Multi-agent reinforcement learning has emerged as a key area of research with applications in autonomous driving, game playing, and supply chain optimization. This survey covers cooperative, competitive, and mixed settings. We review communication protocols, reward shaping, and scalability challenges. We highlight that most existing work focuses on simulated environments, with real-world deployment remaining largely unexplored.",
+    "authors": [{"name": "Thanh Thi Nguyen"}, {"name": "Ngoc Duy Nguyen"}, {"name": "Saeid Nahavandi"}],
+    "year": 2020,
+    "venue": "IEEE TNNLS",
+    "citation_count": 890,
+    "source": "semantic_scholar",
+    "keywords": ["multi-agent", "reinforcement learning", "deep learning", "cooperative AI"]
+  },
+  {
+    "paper_id": "2301.00005",
+    "title": "Explainable AI for Healthcare: From Black Box to Glass Box",
+    "abstract": "As AI systems are increasingly deployed in healthcare, the need for explainability becomes critical. This paper reviews explainable AI techniques including attention visualization, LIME, SHAP, and concept-based explanations. We discuss the unique requirements of healthcare applications including clinical validation, regulatory compliance, and patient trust. We find that most XAI methods are evaluated on non-medical benchmarks and propose guidelines for healthcare-specific evaluation.",
+    "authors": [{"name": "Amina Adadi"}, {"name": "Mohammed Berrada"}],
+    "year": 2021,
+    "venue": "Information Fusion",
+    "citation_count": 1200,
+    "source": "semantic_scholar",
+    "keywords": ["explainable AI", "healthcare", "interpretability", "clinical AI"]
+  },
+  {
+    "paper_id": "2301.00006",
+    "title": "Temporal Graph Neural Networks for Dynamic Social Networks",
+    "abstract": "Most graph neural network models focus on static graphs, ignoring the temporal evolution of real-world networks. We propose TGN, a temporal graph neural network that maintains a memory of node states and uses temporal attention to capture time-dependent patterns. Experiments on Wikipedia and Reddit interaction datasets show significant improvements over static baselines for link prediction and node classification on dynamic social networks.",
+    "authors": [{"name": "Emanuele Rossi"}, {"name": "Ben Chamberlain"}, {"name": "Fabrizio Frasca"}],
+    "year": 2023,
+    "venue": "ICML",
+    "citation_count": 320,
+    "source": "arxiv",
+    "keywords": ["temporal graph", "dynamic networks", "social networks", "GNN"]
+  },
+  {
+    "paper_id": "2301.00007",
+    "title": "AI for Sustainability: Smart Cities and Environmental Monitoring",
+    "abstract": "This paper explores the intersection of artificial intelligence and sustainability, focusing on smart city applications. We review AI-powered solutions for energy optimization, traffic management, waste reduction, and air quality monitoring. While promising results exist in urban energy systems, the integration of AI into water management and urban biodiversity monitoring remains underexplored. We propose a framework for evaluating sustainability impact of AI deployments.",
+    "authors": [{"name": "Laura Wynter"}, {"name": "Paolo Santi"}, {"name": "Carlo Ratti"}],
+    "year": 2023,
+    "venue": "Nature Sustainability",
+    "citation_count": 180,
+    "source": "semantic_scholar",
+    "keywords": ["AI sustainability", "smart cities", "environmental AI", "urban computing"]
+  },
+  {
+    "paper_id": "2301.00008",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "abstract": "We explore a generation approach that combines pre-trained parametric models with non-parametric memory through retrieval augmentation. Our retrieval-augmented generation (RAG) models retrieve relevant documents and use them as context for generating responses. This approach achieves state-of-the-art results on open-domain QA, fact verification, and dialogue tasks, demonstrating that retrieval augmentation significantly improves factual accuracy.",
+    "authors": [{"name": "Patrick Lewis"}, {"name": "Ethan Perez"}, {"name": "Aleksandra Piktus"}],
+    "year": 2020,
+    "venue": "NeurIPS",
+    "citation_count": 2100,
+    "source": "semantic_scholar",
+    "keywords": ["RAG", "retrieval augmented", "knowledge base", "NLP"]
+  },
+  {
+    "paper_id": "2301.00009",
+    "title": "Federated Learning: Strategies for Improving Communication Efficiency",
+    "abstract": "Federated learning enables training models across decentralized data sources without sharing raw data. However, communication overhead between clients and the central server remains a major bottleneck. This paper proposes gradient compression, knowledge distillation, and asynchronous aggregation strategies to reduce communication costs while maintaining model accuracy. We evaluate on both IID and non-IID data distributions.",
+    "authors": [{"name": "Jakub Konecny"}, {"name": "H. Brendan McMahan"}, {"name": "Felix Yu"}],
+    "year": 2021,
+    "venue": "AISTATS",
+    "citation_count": 650,
+    "source": "semantic_scholar",
+    "keywords": ["federated learning", "privacy", "distributed learning", "communication efficiency"]
+  },
+  {
+    "paper_id": "2301.00010",
+    "title": "Vision Transformers: A Survey of Self-Supervised Pre-training",
+    "abstract": "Vision Transformers (ViTs) have revolutionized computer vision by adapting the transformer architecture from NLP. Self-supervised pre-training methods such as MAE, DINO, and BEiT have shown that ViTs can learn powerful visual representations without labeled data. This survey covers contrastive, generative, and masked image modeling approaches. We identify that applying ViTs to video understanding and 3D vision remain open challenges.",
+    "authors": [{"name": "Zhuang Liu"}, {"name": "Hanzi Mao"}, {"name": "Chao-Yuan Wu"}],
+    "year": 2023,
+    "venue": "IJCV",
+    "citation_count": 410,
+    "source": "semantic_scholar",
+    "keywords": ["vision transformer", "self-supervised", "computer vision", "ViT"]
+  },
+  {
+    "paper_id": "2301.00011",
+    "title": "Large Language Models for Scientific Discovery",
+    "abstract": "Large language models are being adapted for scientific applications including drug discovery, materials science, and mathematical reasoning. This paper reviews LLM-based scientific agents that can formulate hypotheses, design experiments, and interpret results. We discuss challenges including hallucination, domain expertise, and reproducibility. Current systems excel at literature review but struggle with quantitative reasoning.",
+    "authors": [{"name": "Tom Hope"}, {"name": "Doug Downey"}, {"name": "Daniel King"}],
+    "year": 2024,
+    "venue": "Nature Machine Intelligence",
+    "citation_count": 95,
+    "source": "semantic_scholar",
+    "keywords": ["LLM", "scientific discovery", "AI agents", "research automation"]
+  },
+  {
+    "paper_id": "2301.00012",
+    "title": "Multi-Agent Reinforcement Learning in Supply Chain Management",
+    "abstract": "Supply chain management involves coordinating multiple autonomous entities with conflicting objectives. We propose a multi-agent reinforcement learning framework where each supply chain entity is modeled as an independent agent. Using communication protocols and shared reward structures, our approach achieves near-optimal inventory management while respecting individual constraints. Experiments on the Beer Game and a real-world retail dataset demonstrate a 15% improvement over traditional methods.",
+    "authors": [{"name": "Reza Lotfi"}, {"name": "Ali Diabat"}, {"name": "Sarah Sajadi"}],
+    "year": 2024,
+    "venue": "Operations Research",
+    "citation_count": 42,
+    "source": "arxiv",
+    "keywords": ["MARL", "supply chain", "inventory management", "multi-agent systems"]
+  },
+  {
+    "paper_id": "2301.00013",
+    "title": "Knowledge Graphs for AI: Construction, Reasoning, and Applications",
+    "abstract": "Knowledge graphs provide structured representations of real-world knowledge. This survey covers knowledge graph construction techniques including information extraction, entity linking, and relation prediction. We review reasoning methods based on embedding models, graph neural networks, and neuro-symbolic approaches. Applications in question answering, recommender systems, and drug repurposing are discussed. The integration of LLMs with knowledge graphs remains an active area of research.",
+    "authors": [{"name": "Shaoxiong Ji"}, {"name": "Shirui Pan"}, {"name": "Erik Cambria"}],
+    "year": 2022,
+    "venue": "IEEE TKDE",
+    "citation_count": 780,
+    "source": "semantic_scholar",
+    "keywords": ["knowledge graph", "graph reasoning", "NLP", "entity linking"]
+  },
+  {
+    "paper_id": "2301.00014",
+    "title": "Diffusion Models for Text-to-Image Generation",
+    "abstract": "Diffusion models have emerged as powerful generative models, achieving state-of-the-art results in image synthesis. This paper reviews denoising diffusion probabilistic models, their training objectives, and conditioning mechanisms for text-to-image generation. We compare DALL-E, Stable Diffusion, and Imagen architectures. Key challenges include computational efficiency, controllability, and safety concerns. The application to video generation and 3D content creation is an emerging frontier.",
+    "authors": [{"name": "Robin Rombach"}, {"name": "Andreas Blattmann"}, {"name": "Dominik Lorenz"}],
+    "year": 2023,
+    "venue": "CVPR",
+    "citation_count": 1500,
+    "source": "semantic_scholar",
+    "keywords": ["diffusion models", "generative AI", "text-to-image", "image synthesis"]
+  },
+  {
+    "paper_id": "2301.00015",
+    "title": "Quantum Machine Learning: Current Trends and Future Directions",
+    "abstract": "Quantum machine learning combines quantum computing with machine learning to potentially achieve computational advantages. We review variational quantum circuits, quantum kernel methods, and quantum-enhanced optimization. While theoretical advantages exist, current NISQ devices face significant noise and decoherence challenges. We identify quantum chemistry simulation and combinatorial optimization as the most promising near-term applications.",
+    "authors": [{"name": "Maria Schuld"}, {"name": "Francesco Petruccione"}],
+    "year": 2022,
+    "venue": "Physical Review Letters",
+    "citation_count": 340,
+    "source": "semantic_scholar",
+    "keywords": ["quantum ML", "quantum computing", "variational circuits", "NISQ"]
+  },
+  {
+    "paper_id": "2301.00016",
+    "title": "Causal Inference in Machine Learning: Methods and Applications",
+    "abstract": "Understanding causal relationships is essential for scientific discovery and decision-making. This paper reviews causal inference methods in machine learning including structural causal models, do-calculus, and counterfactual reasoning. We discuss their application to fairness, robustness, and transfer learning. Current limitations include the strong assumptions required and difficulty in scaling to high-dimensional observational data.",
+    "authors": [{"name": "Bernhard Scholkopf"}, {"name": "Francesco Locatello"}, {"name": "Stefan Bauer"}],
+    "year": 2021,
+    "venue": "Proceedings of the IEEE",
+    "citation_count": 560,
+    "source": "semantic_scholar",
+    "keywords": ["causal inference", "structural causal models", "fairness", "machine learning"]
+  },
+  {
+    "paper_id": "2301.00017",
+    "title": "Neural Architecture Search: Advances and Challenges",
+    "abstract": "Neural Architecture Search automates the design of neural network architectures. We review search space design, search strategies including reinforcement learning, evolutionary algorithms, and differentiable methods, and performance estimation strategies. While NAS has produced competitive architectures, the computational cost remains prohibitive for many researchers. We discuss efficient NAS methods and transferability of searched architectures.",
+    "authors": [{"name": "Thomas Elsken"}, {"name": "Jan Hendrik Metzen"}, {"name": "Frank Hutter"}],
+    "year": 2019,
+    "venue": "JMLR",
+    "citation_count": 1800,
+    "source": "semantic_scholar",
+    "keywords": ["NAS", "AutoML", "architecture search", "neural network design"]
+  },
+  {
+    "paper_id": "2301.00018",
+    "title": "Foundation Models for Robotics: Bridging Language and Action",
+    "abstract": "Foundation models pre-trained on internet-scale data can provide robots with broad world knowledge. This paper explores how large language models and vision-language models can be grounded in robotic control. We review approaches including code generation for robot planning, reward specification from natural language, and visual reasoning for manipulation. Key challenges include sim-to-real transfer, safety guarantees, and real-time performance.",
+    "authors": [{"name": "Yuke Zhu"}, {"name": "Fei Xia"}, {"name": "Brian Ichter"}],
+    "year": 2024,
+    "venue": "Science Robotics",
+    "citation_count": 75,
+    "source": "semantic_scholar",
+    "keywords": ["robotics", "foundation models", "LLM grounding", "manipulation"]
+  },
+  {
+    "paper_id": "2301.00019",
+    "title": "Privacy-Preserving Machine Learning: A Comprehensive Survey",
+    "abstract": "As machine learning models are deployed in sensitive domains, preserving data privacy is paramount. This survey covers differential privacy, secure multi-party computation, homomorphic encryption, and trusted execution environments for ML. We compare trade-offs between privacy guarantees and model utility. Federated learning and synthetic data generation are highlighted as practical approaches, while fully homomorphic encryption remains computationally expensive.",
+    "authors": [{"name": "Mohammad Al-Rubaie"}, {"name": "J. Morris Chang"}],
+    "year": 2022,
+    "venue": "ACM Computing Surveys",
+    "citation_count": 420,
+    "source": "semantic_scholar",
+    "keywords": ["privacy", "differential privacy", "federated learning", "encryption"]
+  },
+  {
+    "paper_id": "2301.00020",
+    "title": "Graph Contrastive Learning: A Survey on Self-Supervised Methods",
+    "abstract": "Self-supervised learning on graphs has gained attention as a way to learn node and graph representations without labeled data. This survey covers graph contrastive learning methods including node-level, edge-level, and graph-level approaches. We review augmentation strategies, contrastive objectives, and negative sampling techniques. Experiments show competitive or superior performance compared to supervised GNN baselines on multiple benchmarks.",
+    "authors": [{"name": "Yanqiao Zhu"}, {"name": "Yichen Xu"}, {"name": "Feng Yu"}],
+    "year": 2023,
+    "venue": "TPAMI",
+    "citation_count": 280,
+    "source": "arxiv",
+    "keywords": ["graph contrastive learning", "self-supervised", "GNN", "representation learning"]
+  }
+]
